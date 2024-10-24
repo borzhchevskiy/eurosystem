@@ -1,0 +1,347 @@
+<wpml-config>
+	<custom-types>
+        <custom-type translate="1">portfolio</custom-type>
+        <custom-type translate="1">block</custom-type>
+        <custom-type translate="1">themejr_size_chart</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">portfolio_cat</taxonomy>
+        <taxonomy translate="1">portfolio_skills</taxonomy>
+        <taxonomy translate="1">product_brand</taxonomy>
+    </taxonomies>
+	<admin-texts>
+        <key name="matjar_options">
+            <key name="promo-bar-message-text" />
+            <key name="promo-bar-link-btn-text" />
+            <key name="promo-bar-link-btn-text" />
+            <key name="mobile-navbar-label-shop" />
+            <key name="mobile-navbar-label-wishlist" />
+            <key name="mobile-navbar-label-cart" />
+            <key name="mobile-navbar-label-account" />
+            <key name="mobile-navbar-label-home" />
+            <key name="mobile-navbar-label-menu" />
+            <key name="mobile-navbar-label-compare" />
+            <key name="mobile-navbar-label-filter" />
+            <key name="mobile-navbar-label-order" />
+            <key name="mobile-navbar-label-order-tracking" />
+            <key name="mobile-navbar-label-sidebar" />
+            <key name="mobile-navbar-label-blog" />
+            <key name="mobile-navbar-label-search" />
+            <key name="header-phone-number" />
+            <key name="header-email" />
+            <key name="header-location" />
+            <key name="header-welcome-message" />
+            <key name="header-newsletter" />
+            <key name="categories-menu-title" />
+            <key name="search-placeholder-text" />
+            <key name="footer-subscribe-title" />
+            <key name="footer-subscribe-subtitle" />
+			<key name="copyright-text"/>
+			<key name="sale-product-label-percentage-text"/>
+			<key name="sale-product-label-text"/>
+			<key name="new-product-label-text"/>
+			<key name="featured-product-label-text"/>
+			<key name="outofstock-product-label-text"/>
+			<key name="free-shipping-amount"/>
+			<key name="free-shipping-msg"/>
+			<key name="free-shipping-complete-msg"/>
+			<key name="off-canvas-button-text"/>
+			<key name="products-per-page-number"/>
+			<key name="products-pagination-load-more-button-text"/>
+			<key name="products-pagination-finished-message"/>
+			<key name="product-quickbuy-button-text"/>
+			<key name="single-product-countdown-tag"/>
+			<key name="single-product-availability-instock-msg"/>
+			<key name="single-product-availability-hurry-left-msg"/>
+			<key name="single-product-availability-outstock-msg"/>
+			<key name="single-product-short-description-label"/>
+			<key name="delivery-return-label"/>
+			<key name="ask-quetion-label"/>
+			<key name="ask-quetion-form-title"/>
+			<key name="estimated-delivery-label"/>
+			<key name="visitor-count-text"/>
+			<key name="policy_title"/>
+			<key name="trust-badge-label"/>
+			<key name="product-bought-together-title"/>
+			<key name="login-information"/>
+			<key name="404-page-title"/>
+			<key name="404-page-tagline"/>
+			<key name="previous-link-title"/>
+			<key name="blog-page-title-text"/>
+			<key name="post-readmore-text"/>
+			<key name="blog-pagination-load-more-button-text"/>
+			<key name="blog-pagination-finished-message"/>
+			<key name="single-post-title-text"/>
+			<key name="portfolio-slug"/>
+			<key name="portfolio-name"/>
+			<key name="portfolio-singular-name"/>
+			<key name="portfolio-cat-slug"/>
+			<key name="portfolio-skill-slug"/>
+			<key name="portfolio-page-title-text"/>
+			<key name="portfolio-pagination-load-more-button-text"/>
+			<key name="portfolio-pagination-finished-message"/>
+			<key name="newsletter-delay"/>
+			<key name="newsletter-x-scroll"/>
+			<key name="newsletter-title"/>
+			<key name="newsletter-tag-line"/>
+			<key name="newsletter-dont-show"/>
+			<key name="cookie-title"/>
+			<key name="cookie-message-text"/>
+			<key name="cookie-accept-text"/>
+			<key name="cookie-see-more-text"/>
+			<key name="cookie-refuse-text"/>
+			<key name="cookie-refuse-code"/>
+			<key name="cookie-on-scroll-offset"/>
+			<key name="slider-autoplaytimeout"/>
+			<key name="theme-name"/>
+			<key name="theme-welcome-page-title"/>
+			<key name="theme-welcome-page-description"/>
+        </key>
+    </admin-texts>
+	<custom-fields>
+		<custom-field action="translate">_themejr_post_format_video</custom-field>
+		<custom-field action="translate">_themejr_post_format_audio</custom-field>
+		<custom-field action="translate">_themejr_post_format_quote</custom-field>
+		<custom-field action="translate">_themejr_post_format_quote_author</custom-field>
+		<custom-field action="translate">_themejr_post_format_quote_author_url</custom-field>
+		<custom-field action="translate">_themejr_post_format_link_text</custom-field>
+		<custom-field action="translate">_themejr_client_name</custom-field>		
+		<custom-field action="translate">_themejr_website_link</custom-field>
+        <custom-field action="translate">_themejr_product_video</custom-field>
+        <custom-field action="translate">_themejr_product_custom_tab_heading</custom-field>
+        <custom-field action="translate">_themejr_product_custom_tab_content</custom-field>
+        <custom-field action="translate">_themejr_custom_page_title</custom-field>
+    </custom-fields>
+	<elementor-widgets>		
+		<widget name="matjar-banner">
+            <fields>
+                <field type="Banner - Title" editor_type="LINE">title</field>
+                <field type="Banner - Subtitle" editor_type="AREA">subtitle</field>
+                <field type="Banner - Description" editor_type="AREA">banner_content</field>
+                <field type="Banner - Button Text" editor_type="LINE">button_text</field>
+				<field type="Banner - Link" editor_type="LINK" key_of="banner_link">url</field>
+            </fields>
+        </widget>
+		<widget name="matjar-banner">
+            <fields>
+                <field type="Banner - Title" editor_type="LINE">title</field>
+                <field type="Banner - Subtitle" editor_type="AREA">subtitle</field>
+                <field type="Banner - Description" editor_type="AREA">banner_content</field>
+                <field type="Banner - Button Text" editor_type="LINE">button_text</field>
+				<field type="Banner - Link" editor_type="LINK" key_of="banner_link">url</field>
+            </fields>
+        </widget>
+		<widget name="matjar_banner_carousel">
+			<fields-in-item items_of="banners">
+				<field type="Banner Carousel - Title" editor_type="LINE">title</field>
+                <field type="Banner Carousel - Subtitle" editor_type="AREA">subtitle</field>
+                <field type="Banner Carousel - Description" editor_type="AREA">banner_content</field>
+                <field type="Banner Carousel - Button Text" editor_type="LINE">button_text</field>
+				<field type="Banner Carousel - Link" editor_type="LINK" key_of="banner_link">url</field>
+			</fields-in-item>
+        </widget>
+		<widget name="matjar_blog_carousel">
+            <fields>
+                <field type="Blog Carousel - Title" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+		<widget name="matjar-button">
+            <fields>
+                <field type="Button - Text" editor_type="LINE">text</field>
+                <field type="Button - Link" editor_type="LINK" key_of="button_link">url</field>
+            </fields>
+        </widget>
+		<widget name="matjar_contactus">
+            <fields>
+                <field type="Contactus - Title" editor_type="LINE">title</field>
+                <field type="Contactus - Description" editor_type="AREA">description</field>
+            </fields>
+        </widget>
+		<widget name="matjar_counter">
+            <fields>
+                <field type="Counter - Title" editor_type="LINE">counter_title</field>
+                <field type="Counter - Suffix" editor_type="LINE">counter_suffix</field>
+                <field type="Counter - Prefix" editor_type="LINE">counter_prefix</field>
+            </fields>
+        </widget>
+		<widget name="matjar-heading">
+            <fields>
+				<field type="Heading - Title" editor_type="LINE">title</field>
+                <field type="Heading - Subtitle" editor_type="LINE">sub_title</field>
+                <field type="Heading - Tagline" editor_type="AREA">tagline</field>
+            </fields>
+        </widget>
+		<widget name="matjar-infobox">
+            <fields>
+                <field type="Infobox - Subtitle" editor_type="LINE">subtitle</field>
+                <field type="Infobox - Title" editor_type="LINE">title_text</field>
+                <field type="Infobox - Description" editor_type="AREA">description</field>
+                <field type="Infobox - Link" editor_type="LINK" key_of="link">url</field>
+                <field type="Infobox - Read More Text" editor_type="LINE">read_more_text</field>
+            </fields>
+        </widget>
+		<widget name="matjar_instagram">
+            <fields>
+                <field type="Instagram - Title" editor_type="LINE">title</field>
+                <field type="Instagram - Link" editor_type="LINK" key_of="profile_link">url</field>
+            </fields>
+        </widget>
+		<widget name="matjar-menu-block">
+            <fields>
+                <field type="Mega Menu Item - Title" editor_type="LINE">title</field>
+                <field type="Mega Menu Item - Link" editor_type="LINK" key_of="link">url</field>
+				<field type="Mega Menu Item - Label" editor_type="LINE">label_text</field>
+            </fields>
+			<fields-in-item items_of="menu_items">
+				<field type="Sub Menu Item - Title" editor_type="LINE">title</field>
+                <field type="Sub Menu Item - Link" editor_type="LINK" key_of="link">url</field>
+				<field type="Sub Menu Item - Label" editor_type="LINE">label_text</field>
+			</fields-in-item>
+        </widget>
+		<widget name="matjar_newsletter">
+            <fields>
+                <field type="Newsletter - Title" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+		<widget name="matjar_portfolio_carousel">
+            <fields>
+                <field type="Portfolio Carousel - Title" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+		<widget name="matjar_progress_bar">
+            <fields>
+                <field type="Progress Bar - Title" editor_type="LINE">title</field>
+                <field type="Progress Bar - Units" editor_type="LINE">units</field>
+            </fields>
+			<fields-in-item items_of="bar_items">
+				<field type="Progress Bar - Label" editor_type="LINE">bar_label</field>
+			</fields-in-item>
+        </widget>
+		<widget name="matjar_social_buttons">
+            <fields>
+                <field type="Social Buttons - Title" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+		<widget name="matjar_team">            
+			<fields-in-item items_of="team_members">
+				<field type="Team - Name" editor_type="LINE">name</field>
+				<field type="Team - Designation" editor_type="LINE">designation</field>
+				<field type="Team - Description" editor_type="AREA">description</field>
+				<field type="Team - Facebook" editor_type="LINE">facebook</field>
+				<field type="Team - Twitter" editor_type="LINE">twitter</field>
+				<field type="Team - Linkedin" editor_type="LINE">linkedin</field>
+				<field type="Team - Skype" editor_type="LINE">skype</field>
+				<field type="Team - Instagram" editor_type="LINE">instagram</field>
+				<field type="Team - Youtube" editor_type="LINE">youtube</field>
+				<field type="Team - Facebook" editor_type="LINE">facebook</field>
+			</fields-in-item>
+        </widget>
+		<widget name="matjar_testimonials">            
+			<fields-in-item items_of="testimonials_items">
+				<field type="Testimonials - Name" editor_type="LINE">name</field>
+				<field type="Testimonials - Description" editor_type="AREA">description</field>
+				<field type="Testimonials - Designation" editor_type="LINE">designation</field>
+			</fields-in-item>
+        </widget>
+		<widget name="matjar_vertical_menu">
+            <fields>
+                <field type="Categories Menu - Title" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+		<widget name="matjar_dokan_vendors">
+            <fields>
+                <field type="Dokan Vendors - Title" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+		<widget name="matjar_wcfm_vendors">
+            <fields>
+                <field type="WCFM Vendors - Title" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+		<widget name="matjar_wcmp_vendors">
+            <fields>
+                <field type="WCMP Vendors - Title" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+		<widget name="matjar_wc_vendors">
+            <fields>
+                <field type="WC Vendors - Title" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+		<widget name="matjar_hot_deal_products">
+            <fields>
+                <field type="Hot Deal Products - Title" editor_type="LINE">title</field>
+                <field type="Hot Deal Products - Deal Title" editor_type="LINE">deal_title</field>
+            </fields>
+        </widget>
+		<widget name="matjar_product_brands">
+            <fields>
+                <field type="Product Brands - Title" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+		<widget name="matjar_product_categories">
+            <fields>
+                <field type="Product Categories - Title" editor_type="LINE">title</field>
+                <field type="Product Categories - Button Text" editor_type="LINE">view_more_button_text</field>
+				<field type="Product Categories - Button Link" editor_type="LINK" key_of="view_more_button_link">url</field>
+            </fields>
+        </widget>
+		<widget name="matjar_product_categories_thumbnail">
+            <fields>
+                <field type="Product Categories Thumbnail - Title" editor_type="LINE">title</field>
+                <field type="Product Categories Thumbnail - Button Text" editor_type="LINE">view_more_button_text</field>
+				<field type="Product Categories Thumbnail - Button Link" editor_type="LINK" key_of="view_more_button_link">url</field>
+            </fields>
+        </widget>
+		<widget name="matjar-custom-categories">
+			<fields-in-item items_of="category_list">
+				<field type="Product Custom Categories - Title" editor_type="LINE">cat_title</field>
+			</fields-in-item>
+        </widget>
+		<widget name="matjar_products_and_categories_box">
+            <fields>
+                <field type="Products And Categories Box - Title" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+		<widget name="matjar_products_category_tabs">
+            <fields>
+                <field type="Products Category Tabs - Title" editor_type="LINE">title</field>
+            </fields>
+			<fields-in-item items_of="product_tabs">
+				<field type="Products Category Tabs - Tab Title" editor_type="LINE">tab_title</field>
+			</fields-in-item>
+        </widget>
+		<widget name="matjar_products_tabs">
+            <fields>
+                <field type="Products Tabs - Title" editor_type="LINE">title</field>
+            </fields>
+			<fields-in-item items_of="product_tabs">
+				<field type="Products Tabs - Tab Title" editor_type="LINE">tab_title</field>
+			</fields-in-item>
+        </widget>
+		<widget name="matjar_products_grid_carousel">
+            <fields>
+                <field type="Products Grid Or Carousel - Title" editor_type="LINE">title</field>
+                <field type="Products Grid Or Carousel - Button Text" editor_type="LINE">view_more_button_text</field>
+				<field type="Products Grid Or Carousel - Button Link" editor_type="LINK" key_of="view_more_button_link">url</field>
+            </fields>
+        </widget>
+		<widget name="matjar_products_recently_viewed">
+            <fields>
+                <field type="Products Recently Viewed - Title" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+		<widget name="matjar_products_widget">
+            <fields>
+                <field type="Products Widget - Title" editor_type="LINE">title</field>
+            </fields>
+        </widget>
+		<widget name="matjar_products_with_banner">
+            <fields>
+                <field type="Products With Banner - Title" editor_type="LINE">title</field>
+                <field type="Products With Banner - Button Text" editor_type="LINE">view_more_button_text</field>
+				<field type="Products With Banner - Button Link" editor_type="LINK" key_of="view_more_button_link">url</field>
+            </fields>
+        </widget>
+	</elementor-widgets>
+</wpml-config>

@@ -1,0 +1,4192 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Matjar Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-02-15 15:45+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.3\n"
+"X-Domain: matjar-core"
+
+#: posts/posts-content.php:44
+msgid " Categories"
+msgstr ""
+
+#: posts/posts-content.php:43
+msgid " Category"
+msgstr ""
+
+#: posts/posts-content.php:46
+msgid " Skill"
+msgstr ""
+
+#: posts/posts-content.php:47
+msgid " Skills"
+msgstr ""
+
+#: templates/elements-widgets/woo-product-cutstom-category.php:34
+#: templates/elements-widgets/product-categories/categories-default.php:49
+#: templates/elements-widgets/products-and-categories-box/only-categories.php:57
+#: templates/elements-widgets/products-and-categories-box/banner-categories.php:99
+#, php-format
+msgid "%s Product"
+msgid_plural "%s Products"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/elementor/elementor-functions.php:61
+msgid "--Select--"
+msgstr ""
+
+#: widgets/woocommerce-price-filter.php:313
+msgid "0|100"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:170
+#: inc/elementor/widgets/woo-dokan-vendors.php:200
+#: inc/elementor/widgets/woo-dokan-vendors.php:213
+#: inc/elementor/widgets/woo-products-with-banner.php:287
+#: inc/elementor/widgets/woo-products-with-banner.php:300
+#: inc/elementor/widgets/blog-carousel.php:376
+#: inc/elementor/widgets/portfolio.php:208 inc/elementor/widgets/team.php:294
+#: inc/elementor/widgets/instagram.php:185
+#: inc/elementor/widgets/instagram.php:220
+#: inc/elementor/widgets/instagram.php:233
+#: inc/elementor/widgets/woo-product-custom-categories.php:241
+#: inc/elementor/widgets/woo-product-custom-categories.php:275
+#: inc/elementor/widgets/woo-product-custom-categories.php:288
+#: inc/elementor/widgets/woo-products-and-categories-box.php:342
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:286
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:322
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:335
+#: inc/elementor/widgets/woo-products-grid-carousel.php:318
+#: inc/elementor/widgets/woo-products-grid-carousel.php:348
+#: inc/elementor/widgets/woo-products-grid-carousel.php:361
+#: inc/elementor/widgets/woo-wcfm-vendors.php:170
+#: inc/elementor/widgets/woo-wcfm-vendors.php:200
+#: inc/elementor/widgets/woo-wcfm-vendors.php:213
+#: inc/elementor/widgets/banner-carousel.php:813
+#: inc/elementor/widgets/blog.php:222
+#: inc/elementor/widgets/woo-wc-vendors.php:170
+#: inc/elementor/widgets/woo-wc-vendors.php:200
+#: inc/elementor/widgets/woo-wc-vendors.php:213
+#: inc/elementor/widgets/woo-products-category-tabs.php:317
+#: inc/elementor/widgets/woo-products-category-tabs.php:348
+#: inc/elementor/widgets/woo-products-category-tabs.php:361
+#: inc/elementor/widgets/woo-product-brands.php:218
+#: inc/elementor/widgets/woo-product-brands.php:252
+#: inc/elementor/widgets/woo-product-brands.php:265
+#: inc/elementor/widgets/woo-wcmp-vendors.php:170
+#: inc/elementor/widgets/woo-wcmp-vendors.php:200
+#: inc/elementor/widgets/woo-wcmp-vendors.php:213
+#: inc/elementor/widgets/woo-product-categories.php:284
+#: inc/elementor/widgets/woo-product-categories.php:314
+#: inc/elementor/widgets/woo-product-categories.php:327
+#: inc/elementor/widgets/woo-products-tabs.php:341
+#: inc/elementor/widgets/woo-products-tabs.php:371
+#: inc/elementor/widgets/woo-products-tabs.php:384
+#: inc/elementor/widgets/woo-hot-deal-products.php:323
+#: inc/elementor/widgets/woo-hot-deal-products.php:353
+#: inc/elementor/widgets/woo-hot-deal-products.php:366
+#: inc/elementor/widgets/portfolio-carousel.php:270
+#: inc/elementor/widgets/testimonials.php:230
+#: inc/elementor/widgets/woo-products-recently-viewed.php:108
+msgid "1"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:110
+#: inc/elementor/widgets/instagram.php:101
+#: inc/elementor/widgets/woo-product-custom-categories.php:250
+#: inc/elementor/widgets/woo-product-custom-categories.php:297
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:295
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:344
+#: inc/elementor/widgets/woo-product-brands.php:227
+#: inc/elementor/widgets/woo-product-brands.php:274
+#: inc/elementor/widgets/portfolio-carousel.php:105
+msgid "10"
+msgstr ""
+
+#: widgets/woocommerce-price-filter.php:313
+msgid "100|200"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:296
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:345
+msgid "11"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:297
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:346
+msgid "12"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:111
+#: inc/elementor/widgets/instagram.php:102
+#: inc/elementor/widgets/portfolio-carousel.php:106
+msgid "15"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:171
+#: inc/elementor/widgets/woo-dokan-vendors.php:201
+#: inc/elementor/widgets/woo-dokan-vendors.php:214
+#: inc/elementor/widgets/woo-products-with-banner.php:288
+#: inc/elementor/widgets/woo-products-with-banner.php:301
+#: inc/elementor/widgets/blog-carousel.php:377
+#: inc/elementor/widgets/portfolio.php:209 inc/elementor/widgets/team.php:295
+#: inc/elementor/widgets/instagram.php:186
+#: inc/elementor/widgets/instagram.php:221
+#: inc/elementor/widgets/instagram.php:234
+#: inc/elementor/widgets/woo-product-custom-categories.php:242
+#: inc/elementor/widgets/woo-product-custom-categories.php:276
+#: inc/elementor/widgets/woo-product-custom-categories.php:289
+#: inc/elementor/widgets/woo-products-and-categories-box.php:343
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:287
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:323
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:336
+#: inc/elementor/widgets/woo-products-grid-carousel.php:319
+#: inc/elementor/widgets/woo-products-grid-carousel.php:349
+#: inc/elementor/widgets/woo-products-grid-carousel.php:362
+#: inc/elementor/widgets/woo-wcfm-vendors.php:171
+#: inc/elementor/widgets/woo-wcfm-vendors.php:201
+#: inc/elementor/widgets/woo-wcfm-vendors.php:214
+#: inc/elementor/widgets/banner-carousel.php:814
+#: inc/elementor/widgets/blog.php:223
+#: inc/elementor/widgets/woo-wc-vendors.php:171
+#: inc/elementor/widgets/woo-wc-vendors.php:201
+#: inc/elementor/widgets/woo-wc-vendors.php:214
+#: inc/elementor/widgets/woo-products-category-tabs.php:318
+#: inc/elementor/widgets/woo-products-category-tabs.php:349
+#: inc/elementor/widgets/woo-products-category-tabs.php:362
+#: inc/elementor/widgets/woo-product-brands.php:219
+#: inc/elementor/widgets/woo-product-brands.php:253
+#: inc/elementor/widgets/woo-product-brands.php:266
+#: inc/elementor/widgets/woo-wcmp-vendors.php:171
+#: inc/elementor/widgets/woo-wcmp-vendors.php:201
+#: inc/elementor/widgets/woo-wcmp-vendors.php:214
+#: inc/elementor/widgets/woo-product-categories.php:285
+#: inc/elementor/widgets/woo-product-categories.php:315
+#: inc/elementor/widgets/woo-product-categories.php:328
+#: inc/elementor/widgets/woo-products-tabs.php:342
+#: inc/elementor/widgets/woo-products-tabs.php:372
+#: inc/elementor/widgets/woo-products-tabs.php:385
+#: inc/elementor/widgets/woo-hot-deal-products.php:324
+#: inc/elementor/widgets/woo-hot-deal-products.php:354
+#: inc/elementor/widgets/woo-hot-deal-products.php:367
+#: inc/elementor/widgets/portfolio-carousel.php:271
+#: inc/elementor/widgets/testimonials.php:231
+#: inc/elementor/widgets/woo-products-recently-viewed.php:109
+msgid "2"
+msgstr ""
+
+#: widgets/woocommerce-price-filter.php:313
+msgid "200|300"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:172
+#: inc/elementor/widgets/woo-dokan-vendors.php:202
+#: inc/elementor/widgets/woo-dokan-vendors.php:215
+#: inc/elementor/widgets/woo-products-with-banner.php:289
+#: inc/elementor/widgets/woo-products-with-banner.php:302
+#: inc/elementor/widgets/blog-carousel.php:378
+#: inc/elementor/widgets/portfolio.php:210 inc/elementor/widgets/team.php:296
+#: inc/elementor/widgets/instagram.php:187
+#: inc/elementor/widgets/instagram.php:222
+#: inc/elementor/widgets/instagram.php:235
+#: inc/elementor/widgets/woo-product-custom-categories.php:243
+#: inc/elementor/widgets/woo-product-custom-categories.php:277
+#: inc/elementor/widgets/woo-product-custom-categories.php:290
+#: inc/elementor/widgets/woo-products-and-categories-box.php:344
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:288
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:324
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:337
+#: inc/elementor/widgets/woo-products-grid-carousel.php:320
+#: inc/elementor/widgets/woo-products-grid-carousel.php:350
+#: inc/elementor/widgets/woo-products-grid-carousel.php:363
+#: inc/elementor/widgets/woo-wcfm-vendors.php:172
+#: inc/elementor/widgets/woo-wcfm-vendors.php:202
+#: inc/elementor/widgets/woo-wcfm-vendors.php:215
+#: inc/elementor/widgets/banner-carousel.php:815
+#: inc/elementor/widgets/blog.php:224
+#: inc/elementor/widgets/woo-wc-vendors.php:172
+#: inc/elementor/widgets/woo-wc-vendors.php:202
+#: inc/elementor/widgets/woo-wc-vendors.php:215
+#: inc/elementor/widgets/woo-products-category-tabs.php:319
+#: inc/elementor/widgets/woo-products-category-tabs.php:350
+#: inc/elementor/widgets/woo-products-category-tabs.php:363
+#: inc/elementor/widgets/woo-product-brands.php:220
+#: inc/elementor/widgets/woo-product-brands.php:254
+#: inc/elementor/widgets/woo-product-brands.php:267
+#: inc/elementor/widgets/woo-wcmp-vendors.php:172
+#: inc/elementor/widgets/woo-wcmp-vendors.php:202
+#: inc/elementor/widgets/woo-wcmp-vendors.php:215
+#: inc/elementor/widgets/woo-product-categories.php:286
+#: inc/elementor/widgets/woo-product-categories.php:316
+#: inc/elementor/widgets/woo-product-categories.php:329
+#: inc/elementor/widgets/woo-products-tabs.php:343
+#: inc/elementor/widgets/woo-products-tabs.php:373
+#: inc/elementor/widgets/woo-products-tabs.php:386
+#: inc/elementor/widgets/woo-hot-deal-products.php:325
+#: inc/elementor/widgets/woo-hot-deal-products.php:355
+#: inc/elementor/widgets/woo-hot-deal-products.php:368
+#: inc/elementor/widgets/portfolio-carousel.php:272
+#: inc/elementor/widgets/testimonials.php:232
+#: inc/elementor/widgets/woo-products-recently-viewed.php:110
+msgid "3"
+msgstr ""
+
+#: widgets/woocommerce-price-filter.php:314
+msgid "300|400"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:173
+#: inc/elementor/widgets/woo-dokan-vendors.php:216
+#: inc/elementor/widgets/woo-products-with-banner.php:303
+#: inc/elementor/widgets/blog-carousel.php:379
+#: inc/elementor/widgets/portfolio.php:211 inc/elementor/widgets/team.php:297
+#: inc/elementor/widgets/instagram.php:188
+#: inc/elementor/widgets/instagram.php:236
+#: inc/elementor/widgets/woo-product-custom-categories.php:244
+#: inc/elementor/widgets/woo-product-custom-categories.php:291
+#: inc/elementor/widgets/woo-products-and-categories-box.php:345
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:289
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:338
+#: inc/elementor/widgets/woo-products-grid-carousel.php:321
+#: inc/elementor/widgets/woo-products-grid-carousel.php:364
+#: inc/elementor/widgets/woo-wcfm-vendors.php:173
+#: inc/elementor/widgets/woo-wcfm-vendors.php:216
+#: inc/elementor/widgets/banner-carousel.php:816
+#: inc/elementor/widgets/blog.php:225
+#: inc/elementor/widgets/woo-wc-vendors.php:173
+#: inc/elementor/widgets/woo-wc-vendors.php:216
+#: inc/elementor/widgets/woo-products-category-tabs.php:320
+#: inc/elementor/widgets/woo-products-category-tabs.php:364
+#: inc/elementor/widgets/woo-product-brands.php:221
+#: inc/elementor/widgets/woo-product-brands.php:268
+#: inc/elementor/widgets/woo-wcmp-vendors.php:173
+#: inc/elementor/widgets/woo-wcmp-vendors.php:216
+#: inc/elementor/widgets/woo-product-categories.php:287
+#: inc/elementor/widgets/woo-product-categories.php:330
+#: inc/elementor/widgets/woo-products-tabs.php:344
+#: inc/elementor/widgets/woo-products-tabs.php:387
+#: inc/elementor/widgets/woo-hot-deal-products.php:326
+#: inc/elementor/widgets/woo-hot-deal-products.php:369
+#: inc/elementor/widgets/portfolio-carousel.php:273
+#: inc/elementor/widgets/testimonials.php:233
+#: inc/elementor/widgets/woo-products-recently-viewed.php:111
+msgid "4"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:174
+#: inc/elementor/widgets/woo-dokan-vendors.php:217
+#: inc/elementor/widgets/woo-products-with-banner.php:304
+#: inc/elementor/widgets/portfolio.php:109 inc/elementor/widgets/team.php:298
+#: inc/elementor/widgets/instagram.php:100
+#: inc/elementor/widgets/instagram.php:189
+#: inc/elementor/widgets/instagram.php:237
+#: inc/elementor/widgets/woo-product-custom-categories.php:245
+#: inc/elementor/widgets/woo-product-custom-categories.php:292
+#: inc/elementor/widgets/woo-products-and-categories-box.php:346
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:290
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:339
+#: inc/elementor/widgets/woo-products-grid-carousel.php:322
+#: inc/elementor/widgets/woo-products-grid-carousel.php:365
+#: inc/elementor/widgets/woo-wcfm-vendors.php:174
+#: inc/elementor/widgets/woo-wcfm-vendors.php:217
+#: inc/elementor/widgets/banner-carousel.php:817
+#: inc/elementor/widgets/woo-wc-vendors.php:174
+#: inc/elementor/widgets/woo-wc-vendors.php:217
+#: inc/elementor/widgets/woo-products-category-tabs.php:321
+#: inc/elementor/widgets/woo-products-category-tabs.php:365
+#: inc/elementor/widgets/woo-product-brands.php:222
+#: inc/elementor/widgets/woo-product-brands.php:269
+#: inc/elementor/widgets/woo-wcmp-vendors.php:174
+#: inc/elementor/widgets/woo-wcmp-vendors.php:217
+#: inc/elementor/widgets/woo-product-categories.php:288
+#: inc/elementor/widgets/woo-product-categories.php:331
+#: inc/elementor/widgets/woo-products-tabs.php:345
+#: inc/elementor/widgets/woo-products-tabs.php:388
+#: inc/elementor/widgets/woo-hot-deal-products.php:327
+#: inc/elementor/widgets/woo-hot-deal-products.php:370
+#: inc/elementor/widgets/portfolio-carousel.php:104
+#: inc/elementor/widgets/testimonials.php:234
+#: inc/elementor/widgets/woo-products-recently-viewed.php:112
+msgid "5"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:175
+#: inc/elementor/widgets/woo-dokan-vendors.php:218
+#: inc/elementor/widgets/woo-products-with-banner.php:305
+#: inc/elementor/widgets/team.php:299 inc/elementor/widgets/instagram.php:190
+#: inc/elementor/widgets/instagram.php:238
+#: inc/elementor/widgets/woo-product-custom-categories.php:246
+#: inc/elementor/widgets/woo-product-custom-categories.php:293
+#: inc/elementor/widgets/woo-products-and-categories-box.php:347
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:291
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:340
+#: inc/elementor/widgets/woo-products-grid-carousel.php:323
+#: inc/elementor/widgets/woo-products-grid-carousel.php:366
+#: inc/elementor/widgets/woo-wcfm-vendors.php:175
+#: inc/elementor/widgets/woo-wcfm-vendors.php:218
+#: inc/elementor/widgets/woo-wc-vendors.php:175
+#: inc/elementor/widgets/woo-wc-vendors.php:218
+#: inc/elementor/widgets/woo-products-category-tabs.php:322
+#: inc/elementor/widgets/woo-products-category-tabs.php:366
+#: inc/elementor/widgets/woo-product-brands.php:223
+#: inc/elementor/widgets/woo-product-brands.php:270
+#: inc/elementor/widgets/woo-wcmp-vendors.php:175
+#: inc/elementor/widgets/woo-wcmp-vendors.php:218
+#: inc/elementor/widgets/woo-product-categories.php:289
+#: inc/elementor/widgets/woo-product-categories.php:332
+#: inc/elementor/widgets/woo-products-tabs.php:346
+#: inc/elementor/widgets/woo-products-tabs.php:389
+#: inc/elementor/widgets/woo-hot-deal-products.php:328
+#: inc/elementor/widgets/woo-hot-deal-products.php:371
+#: inc/elementor/widgets/testimonials.php:235
+#: inc/elementor/widgets/woo-products-recently-viewed.php:113
+msgid "6"
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:191
+#: inc/elementor/widgets/woo-product-custom-categories.php:247
+#: inc/elementor/widgets/woo-product-custom-categories.php:294
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:292
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:341
+#: inc/elementor/widgets/woo-product-brands.php:224
+#: inc/elementor/widgets/woo-product-brands.php:271
+msgid "7"
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:192
+#: inc/elementor/widgets/woo-product-custom-categories.php:248
+#: inc/elementor/widgets/woo-product-custom-categories.php:295
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:293
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:342
+#: inc/elementor/widgets/woo-product-brands.php:225
+#: inc/elementor/widgets/woo-product-brands.php:272
+msgid "8"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:249
+#: inc/elementor/widgets/woo-product-custom-categories.php:296
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:294
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:343
+#: inc/elementor/widgets/woo-product-brands.php:226
+#: inc/elementor/widgets/woo-product-brands.php:273
+msgid "9"
+msgstr ""
+
+#: widgets/class-about-us.php:55
+msgid "About Tagline:"
+msgstr ""
+
+#: widgets/class-about-us.php:32
+msgid "About Us"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:80
+msgid "Accessories"
+msgstr ""
+
+#: inc/elementor/extend-element/accordion.php:63
+msgid "Active Background Color"
+msgstr ""
+
+#: inc/elementor/widgets/progress-bar.php:116
+msgid "Add animation"
+msgstr ""
+
+#: inc/elementor/widgets/button.php:106
+#: inc/elementor/widgets/banner-carousel.php:138
+#: inc/elementor/widgets/banner.php:132
+#: inc/elementor/widgets/vertical-menu.php:73
+#: inc/elementor/widgets/info-box.php:166
+msgid "Add Icon"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:140
+msgid "Add Link"
+msgstr ""
+
+#: posts/posts-content.php:172
+msgid "Add New"
+msgstr ""
+
+#: posts/posts-content.php:173 posts/posts-content.php:195
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: inc/elementor/widgets/progress-bar.php:107
+msgid "Add stripes"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:68
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: widgets/class-about-us.php:59
+msgid "Address:"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:220
+msgid "After Product Price"
+msgstr ""
+
+#: inc/elementor/widgets/button.php:93
+#: inc/elementor/widgets/social-buttons.php:123
+#: inc/elementor/widgets/countdown.php:69 inc/elementor/widgets/heading.php:115
+#: inc/elementor/widgets/info-box.php:429
+msgid "Alignment"
+msgstr ""
+
+#: widgets/woocommerce-brand-filter.php:86
+msgid "All"
+msgstr ""
+
+#: posts/posts-content.php:190
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: widgets/woocommerce-product-attributes-filter.php:90
+msgid "AND"
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:127
+msgid "API"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:126
+msgid "Apply link to"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:147
+#: inc/elementor/widgets/woo-products-with-banner.php:267
+#: inc/elementor/widgets/blog-carousel.php:164
+#: inc/elementor/widgets/portfolio.php:176
+#: inc/elementor/widgets/woo-products-and-categories-box.php:322
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:210
+#: inc/elementor/widgets/woo-products-grid-carousel.php:295
+#: inc/elementor/widgets/woo-wcfm-vendors.php:147
+#: inc/elementor/widgets/blog.php:184
+#: inc/elementor/widgets/woo-wc-vendors.php:147
+#: inc/elementor/widgets/woo-products-category-tabs.php:294
+#: inc/elementor/widgets/woo-product-brands.php:170
+#: inc/elementor/widgets/woo-wcmp-vendors.php:147
+#: inc/elementor/widgets/woo-product-categories.php:201
+#: inc/elementor/widgets/woo-hot-deal-products.php:300
+#: inc/elementor/widgets/portfolio-carousel.php:156
+#: inc/elementor/widgets/woo-products-widget.php:187
+msgid "Ascending"
+msgstr ""
+
+#: widgets/woocommerce-product-attributes-filter.php:82
+msgid "Attribute"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:272
+#: inc/elementor/widgets/blog.php:338
+msgid "Author"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:228
+#: inc/elementor/widgets/woo-products-with-banner.php:315
+#: inc/elementor/widgets/blog-carousel.php:389
+#: inc/elementor/widgets/team.php:309 inc/elementor/widgets/instagram.php:248
+#: inc/elementor/widgets/woo-product-custom-categories.php:307
+#: inc/elementor/widgets/woo-products-and-categories-box.php:357
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:356
+#: inc/elementor/widgets/woo-products-grid-carousel.php:376
+#: inc/elementor/widgets/woo-wcfm-vendors.php:228
+#: inc/elementor/widgets/banner-carousel.php:827
+#: inc/elementor/widgets/woo-wc-vendors.php:228
+#: inc/elementor/widgets/woo-products-category-tabs.php:376
+#: inc/elementor/widgets/woo-product-brands.php:284
+#: inc/elementor/widgets/woo-wcmp-vendors.php:228
+#: inc/elementor/widgets/woo-product-categories.php:342
+#: inc/elementor/widgets/woo-products-tabs.php:399
+#: inc/elementor/widgets/woo-hot-deal-products.php:381
+#: inc/elementor/widgets/portfolio-carousel.php:283
+#: inc/elementor/widgets/woo-products-widget.php:223
+#: inc/elementor/widgets/testimonials.php:245
+#: inc/elementor/widgets/woo-products-recently-viewed.php:123
+msgid "Autoplay"
+msgstr ""
+
+#: widgets/woocommerce-product-sorting.php:62
+msgid "Average rating"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:353
+#: inc/elementor/widgets/banner-carousel.php:587
+#: inc/elementor/widgets/banner.php:348 inc/elementor/widgets/banner.php:623
+msgid "Background"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:92 inc/elementor/widgets/button.php:248
+#: inc/elementor/widgets/button.php:286 inc/elementor/widgets/countdown.php:140
+#: inc/elementor/widgets/banner-carousel.php:217
+#: inc/elementor/widgets/banner-carousel.php:524
+#: inc/elementor/widgets/counter.php:289 inc/elementor/widgets/banner.php:204
+#: inc/elementor/widgets/banner.php:545 inc/elementor/widgets/banner.php:580
+#: inc/elementor/widgets/info-box.php:649
+#: inc/elementor/widgets/info-box.php:839
+#: inc/elementor/widgets/info-box.php:874
+msgid "Background Color"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:146
+#: inc/elementor/widgets/banner-carousel.php:361
+#: inc/elementor/widgets/banner.php:356
+msgid "Background color"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:368 inc/elementor/widgets/info-box.php:732
+msgid "Background Size(px)"
+msgstr ""
+
+#: templates/elements-widgets/products-and-categories-box/banner-products.php:40
+#: templates/elements-widgets/products-and-categories-box/banner-products.php:48
+#: templates/elements-widgets/products-and-categories-box/banner-categories.php:40
+#: templates/elements-widgets/products-and-categories-box/banner-categories.php:48
+#: inc/elementor/widgets/banner.php:32
+msgid "Banner"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:32
+msgid "Banner Carousel"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:124
+#: inc/elementor/widgets/banner.php:117
+msgid "Banner Content"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:91
+#: inc/elementor/widgets/banner.php:82
+msgid "Banner Image"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:233
+#: inc/elementor/widgets/banner-carousel.php:101
+#: inc/elementor/widgets/blog.php:299
+msgid "Banner Image Size"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:177
+#: inc/elementor/widgets/banner.php:171
+msgid "Banner Link"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:196
+#: inc/elementor/widgets/banner.php:184
+msgid "Banner Settings"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:143
+#: inc/elementor/widgets/woo-products-and-categories-box.php:156
+msgid "Banner Single Image"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:144
+msgid "Banner Slider"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:171
+msgid "Banner Slider Images"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:177
+msgid "Banner slider images"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:140
+msgid "Banner Style"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:90
+msgid "Banner With Categories"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:89
+msgid "Banner With Products"
+msgstr ""
+
+#: inc/elementor/widgets/progress-bar.php:163
+msgid "Bar Items"
+msgstr ""
+
+#: inc/elementor/widgets/progress-bar.php:140
+msgid "Bar label"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-tabs.php:258
+msgid "Best Selling"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:184
+#: inc/elementor/widgets/woo-products-and-categories-box.php:252
+#: inc/elementor/widgets/woo-products-grid-carousel.php:212
+#: inc/elementor/widgets/woo-products-tabs.php:224
+#: inc/elementor/widgets/woo-products-widget.php:104
+msgid "Best-Selling Products"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:193
+msgid "Between Heading"
+msgstr ""
+
+#: inc/elementor/widgets/vertical-menu.php:135
+msgid "BG Color"
+msgstr ""
+
+#: posts/posts-content.php:115
+msgid "Block"
+msgstr ""
+
+#: posts/posts-content.php:116
+msgid "Blocks"
+msgstr ""
+
+#: inc/elementor/widgets/blog.php:28
+msgid "Blog"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:28
+msgid "Blog Carousel"
+msgstr ""
+
+#: inc/elementor/widgets/blog.php:97
+msgid "Blog Chess"
+msgstr ""
+
+#: inc/elementor/widgets/blog.php:95
+msgid "Blog Classic"
+msgstr ""
+
+#: inc/elementor/widgets/blog.php:98
+msgid "Blog Grid"
+msgstr ""
+
+#: inc/elementor/widgets/blog.php:96
+msgid "Blog Listing"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:174
+#: inc/elementor/widgets/blog.php:240
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:80
+msgid "Blog Title"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:90
+msgid "Blog View Mode"
+msgstr ""
+
+#: inc/elementor/widgets/countdown.php:128
+#: inc/elementor/widgets/banner-carousel.php:671
+#: inc/elementor/widgets/counter.php:325 inc/elementor/widgets/banner.php:707
+#: inc/elementor/widgets/info-box.php:490
+#: inc/elementor/widgets/info-box.php:686
+msgid "Border Color"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:157
+msgid "Border color"
+msgstr ""
+
+#: inc/elementor/extend-element/accordion.php:32
+#: inc/elementor/widgets/banner-carousel.php:227
+#: inc/elementor/widgets/banner-carousel.php:660
+#: inc/elementor/widgets/counter.php:353 inc/elementor/widgets/banner.php:214
+#: inc/elementor/widgets/banner.php:696 inc/elementor/widgets/info-box.php:716
+msgid "Border Radius"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:625
+#: inc/elementor/widgets/banner.php:661
+msgid "Border Style"
+msgstr ""
+
+#: inc/elementor/widgets/countdown.php:116
+#: inc/elementor/widgets/banner-carousel.php:645
+#: inc/elementor/widgets/counter.php:339 inc/elementor/widgets/banner.php:681
+#: inc/elementor/widgets/info-box.php:477
+#: inc/elementor/widgets/info-box.php:701
+msgid "Border Width"
+msgstr ""
+
+#: widgets/class-social-links.php:42
+#: inc/elementor/widgets/social-buttons.php:88
+msgid "Bordered"
+msgstr ""
+
+#: inc/elementor/base.php:60 inc/elementor/widgets/banner-carousel.php:753
+#: inc/elementor/widgets/banner.php:789
+msgid "Bottom"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:194
+msgid "Bottom Heading"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:136
+msgid "Box Background"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:517
+msgid "Box Background Color"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:546
+msgid "Box Background Hover Color"
+msgstr ""
+
+#: inc/elementor/widgets/countdown.php:96
+#: inc/elementor/widgets/info-box.php:454
+msgid "Box Border Style"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:183
+#: inc/elementor/widgets/info-box.php:504
+msgid "Box Color"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:530
+msgid "Box Hover Color"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:441
+msgid "Box Min Height"
+msgstr ""
+
+#: inc/elementor/widgets/countdown.php:163
+msgid "Box Radius"
+msgstr ""
+
+#: inc/elementor/widgets/countdown.php:151
+msgid "Box Size"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:86
+#: inc/elementor/widgets/info-box.php:407
+#: inc/elementor/widgets/info-box.php:414
+msgid "Box Style"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:78
+#: inc/elementor/widgets/info-box.php:131
+msgid "Box Title"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:90
+#: inc/elementor/widgets/woo-wcfm-vendors.php:90
+#: inc/elementor/widgets/woo-wc-vendors.php:90
+#: inc/elementor/widgets/woo-wcmp-vendors.php:90
+msgid "Boxed"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:91
+#: inc/elementor/widgets/woo-wcfm-vendors.php:91
+#: inc/elementor/widgets/woo-wc-vendors.php:91
+#: inc/elementor/widgets/woo-wcmp-vendors.php:91
+msgid "Boxed Center with Products"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:92
+#: inc/elementor/widgets/woo-wcfm-vendors.php:92
+#: inc/elementor/widgets/woo-wc-vendors.php:92
+#: inc/elementor/widgets/woo-wcmp-vendors.php:92
+msgid "Boxed Horizontal with Products"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:93
+#: inc/elementor/widgets/woo-wcfm-vendors.php:93
+#: inc/elementor/widgets/woo-wc-vendors.php:93
+#: inc/elementor/widgets/woo-wcmp-vendors.php:93
+msgid "Boxed Simple"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:420
+msgid "Boxed Square"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:421
+msgid "Boxed Square With Hover Background"
+msgstr ""
+
+#: posts/posts-content.php:99
+msgid "Brands"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:352
+#: inc/elementor/widgets/button.php:31 inc/elementor/widgets/button.php:151
+#: inc/elementor/widgets/banner-carousel.php:451
+#: inc/elementor/widgets/blog.php:418 inc/elementor/widgets/banner.php:466
+#: inc/elementor/widgets/info-box.php:771
+msgid "Button"
+msgstr ""
+
+#: inc/elementor/widgets/button.php:212
+msgid "Button Color"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:353
+#: inc/elementor/widgets/blog.php:419
+msgid "Button Fill"
+msgstr ""
+
+#: inc/elementor/widgets/button.php:68
+#: inc/elementor/widgets/banner-carousel.php:131
+#: inc/elementor/widgets/banner.php:124
+msgid "Button Text"
+msgstr ""
+
+#: inc/elementor/widgets/button.php:71
+msgid "Button text here"
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:479
+msgid "can't refresh token. Please check your access key."
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:187
+#: inc/elementor/widgets/woo-products-with-banner.php:277
+#: inc/elementor/widgets/blog-carousel.php:366
+#: inc/elementor/widgets/team.php:284 inc/elementor/widgets/instagram.php:207
+#: inc/elementor/widgets/woo-products-and-categories-box.php:332
+#: inc/elementor/widgets/woo-wcfm-vendors.php:187
+#: inc/elementor/widgets/banner-carousel.php:803
+#: inc/elementor/widgets/woo-wc-vendors.php:187
+#: inc/elementor/widgets/woo-products-category-tabs.php:335
+#: inc/elementor/widgets/woo-wcmp-vendors.php:187
+#: inc/elementor/widgets/woo-products-tabs.php:358
+#: inc/elementor/widgets/woo-hot-deal-products.php:340
+#: inc/elementor/widgets/portfolio-carousel.php:260
+#: inc/elementor/widgets/woo-products-widget.php:205
+#: inc/elementor/widgets/testimonials.php:220
+#: inc/elementor/widgets/woo-products-recently-viewed.php:98
+msgid "Carousel Settings"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:124
+#: inc/elementor/widgets/woo-products-grid-carousel.php:127
+#: inc/elementor/widgets/woo-products-category-tabs.php:119
+#: inc/elementor/widgets/woo-products-tabs.php:117
+#: inc/elementor/widgets/woo-hot-deal-products.php:176
+msgid "Cart Button Style"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:189
+msgid "Cat Title"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories.php:104
+msgid "Categories and Sub Categories Box"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories.php:105
+msgid "Categories and Sub Categories Vertical"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:274
+#: inc/elementor/widgets/woo-product-custom-categories.php:216
+#: inc/elementor/widgets/blog.php:340
+#: inc/elementor/widgets/woo-products-category-tabs.php:211
+msgid "Category"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:113
+#: inc/elementor/widgets/woo-product-categories.php:114
+msgid "Category Box Style"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:79
+msgid "Category Style"
+msgstr ""
+
+#: inc/elementor/base.php:22 inc/elementor/base.php:39
+#: inc/elementor/widgets/banner-carousel.php:693
+#: inc/elementor/widgets/banner-carousel.php:723
+#: inc/elementor/widgets/woo-products-category-tabs.php:175
+#: inc/elementor/widgets/banner.php:729 inc/elementor/widgets/banner.php:759
+#: inc/elementor/widgets/woo-products-tabs.php:173
+msgid "Center"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:244
+#: inc/elementor/widgets/woo-products-with-banner.php:331
+#: inc/elementor/widgets/blog-carousel.php:405
+#: inc/elementor/widgets/team.php:325 inc/elementor/widgets/instagram.php:264
+#: inc/elementor/widgets/woo-product-custom-categories.php:323
+#: inc/elementor/widgets/woo-products-and-categories-box.php:373
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:372
+#: inc/elementor/widgets/woo-products-grid-carousel.php:392
+#: inc/elementor/widgets/woo-wcfm-vendors.php:244
+#: inc/elementor/widgets/banner-carousel.php:843
+#: inc/elementor/widgets/woo-wc-vendors.php:244
+#: inc/elementor/widgets/woo-products-category-tabs.php:392
+#: inc/elementor/widgets/woo-product-brands.php:300
+#: inc/elementor/widgets/woo-wcmp-vendors.php:244
+#: inc/elementor/widgets/woo-product-categories.php:358
+#: inc/elementor/widgets/woo-products-tabs.php:415
+#: inc/elementor/widgets/woo-hot-deal-products.php:397
+#: inc/elementor/widgets/portfolio-carousel.php:299
+#: inc/elementor/widgets/woo-products-widget.php:239
+#: inc/elementor/widgets/testimonials.php:261
+#: inc/elementor/widgets/woo-products-recently-viewed.php:139
+msgid "Center Mode"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:218
+#: inc/elementor/widgets/woo-product-categories.php:209
+msgid "Child Of"
+msgstr ""
+
+#: widgets/widget-base/abstract-widget-base.php:480
+msgid "Choose an Image"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:98
+#: inc/elementor/widgets/counter.php:138 inc/elementor/widgets/info-box.php:246
+msgid "Choose image"
+msgstr ""
+
+#: widgets/class-social-links.php:53
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:104
+#: inc/elementor/widgets/social-buttons.php:101
+#: inc/elementor/widgets/woo-product-brands.php:102
+msgid "Circle"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:279 inc/elementor/widgets/info-box.php:639
+msgid "Circle Background"
+msgstr ""
+
+#: inc/elementor/widgets/button.php:70
+msgid "Click here"
+msgstr ""
+
+#: inc/elementor/widgets/testimonials.php:152
+msgid "Client Avatar"
+msgstr ""
+
+#: inc/elementor/widgets/contact-us.php:109
+#: inc/elementor/widgets/contact-us.php:136 inc/elementor/widgets/team.php:106
+#: inc/elementor/widgets/button.php:263 inc/elementor/widgets/button.php:302
+#: inc/elementor/widgets/heading.php:322 inc/elementor/widgets/heading.php:355
+#: inc/elementor/widgets/banner-carousel.php:312
+#: inc/elementor/widgets/banner-carousel.php:396
+#: inc/elementor/widgets/banner-carousel.php:433
+#: inc/elementor/widgets/banner-carousel.php:539
+#: inc/elementor/widgets/progress-bar.php:156
+#: inc/elementor/widgets/counter.php:161 inc/elementor/widgets/counter.php:189
+#: inc/elementor/widgets/banner.php:303 inc/elementor/widgets/banner.php:391
+#: inc/elementor/widgets/banner.php:432 inc/elementor/widgets/banner.php:560
+#: inc/elementor/widgets/banner.php:596
+#: inc/elementor/widgets/vertical-menu.php:124
+#: inc/elementor/widgets/info-box.php:294
+#: inc/elementor/widgets/info-box.php:333
+#: inc/elementor/widgets/info-box.php:374
+#: inc/elementor/widgets/info-box.php:610
+#: inc/elementor/widgets/info-box.php:854
+#: inc/elementor/widgets/info-box.php:890
+#: inc/elementor/widgets/testimonials.php:80
+msgid "Color"
+msgstr ""
+
+#: widgets/class-social-links.php:41
+#: inc/elementor/widgets/social-buttons.php:87
+msgid "Colour"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:167
+#: inc/elementor/widgets/woo-dokan-vendors.php:210
+#: inc/elementor/widgets/woo-products-with-banner.php:297
+#: inc/elementor/widgets/blog-carousel.php:373
+#: inc/elementor/widgets/portfolio.php:205 inc/elementor/widgets/team.php:291
+#: inc/elementor/widgets/instagram.php:182
+#: inc/elementor/widgets/instagram.php:230
+#: inc/elementor/widgets/woo-product-custom-categories.php:238
+#: inc/elementor/widgets/woo-product-custom-categories.php:285
+#: inc/elementor/widgets/woo-products-and-categories-box.php:339
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:283
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:332
+#: inc/elementor/widgets/woo-products-grid-carousel.php:315
+#: inc/elementor/widgets/woo-products-grid-carousel.php:358
+#: inc/elementor/widgets/woo-wcfm-vendors.php:167
+#: inc/elementor/widgets/woo-wcfm-vendors.php:210
+#: inc/elementor/widgets/banner-carousel.php:810
+#: inc/elementor/widgets/blog.php:219
+#: inc/elementor/widgets/woo-wc-vendors.php:167
+#: inc/elementor/widgets/woo-wc-vendors.php:210
+#: inc/elementor/widgets/woo-products-category-tabs.php:314
+#: inc/elementor/widgets/woo-products-category-tabs.php:358
+#: inc/elementor/widgets/woo-product-brands.php:215
+#: inc/elementor/widgets/woo-product-brands.php:262
+#: inc/elementor/widgets/woo-wcmp-vendors.php:167
+#: inc/elementor/widgets/woo-wcmp-vendors.php:210
+#: inc/elementor/widgets/woo-product-categories.php:281
+#: inc/elementor/widgets/woo-product-categories.php:324
+#: inc/elementor/widgets/woo-products-tabs.php:338
+#: inc/elementor/widgets/woo-products-tabs.php:381
+#: inc/elementor/widgets/woo-hot-deal-products.php:320
+#: inc/elementor/widgets/woo-hot-deal-products.php:363
+#: inc/elementor/widgets/portfolio-carousel.php:267
+#: inc/elementor/widgets/testimonials.php:227
+#: inc/elementor/widgets/woo-products-recently-viewed.php:105
+msgid "Columns"
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:96
+msgid "Columns Gap"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:276
+#: inc/elementor/widgets/blog.php:342
+msgid "Comments"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:130
+msgid "Complete Box"
+msgstr ""
+
+#: inc/elementor/widgets/contact-us.php:28
+#: inc/elementor/widgets/contact-us.php:66
+msgid "Contact Us"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:85
+#: inc/elementor/widgets/banner-carousel.php:425
+#: inc/elementor/widgets/banner.php:425
+msgid "Content"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:579
+#: inc/elementor/widgets/banner.php:616
+msgid "Content Box"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:190
+msgid "Content Style"
+msgstr ""
+
+#: widgets/woocommerce-price-filter.php:305
+msgid "Content:"
+msgstr ""
+
+#: widgets/woocommerce-product.php:110 widgets/class-recent-posts.php:57
+#: widgets/class-portfolios.php:79
+msgid "Continue slider loop?"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:216
+msgid "Countdown Position"
+msgstr ""
+
+#: inc/elementor/widgets/countdown.php:29
+msgid "Countdown Timer"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:30
+msgid "Counter"
+msgstr ""
+
+#: inc/elementor/widgets/countdown.php:188
+msgid "Counter Number"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:96
+msgid "Counter Prefix"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:89
+msgid "Counter Suffix"
+msgstr ""
+
+#: inc/elementor/widgets/countdown.php:208
+msgid "Counter Text"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:70 inc/elementor/widgets/counter.php:154
+msgid "Counter Title"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:80 inc/elementor/widgets/counter.php:182
+msgid "Counter Value"
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:162
+msgid "Current window"
+msgstr ""
+
+#: inc/elementor/widgets/button.php:216
+msgid "Custom"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:170
+msgid "Custom Categories"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:115 inc/elementor/widgets/info-box.php:222
+msgid "Custom Image Icon"
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:128
+msgid "Custom Images"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:179
+msgid "Custom Title"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:301 inc/elementor/widgets/heading.php:334
+#: inc/elementor/widgets/heading.php:367
+#: inc/elementor/widgets/banner-carousel.php:323
+#: inc/elementor/widgets/banner-carousel.php:407
+#: inc/elementor/widgets/banner-carousel.php:444
+#: inc/elementor/widgets/banner.php:314 inc/elementor/widgets/banner.php:402
+#: inc/elementor/widgets/banner.php:443
+msgid "Custom typography"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:111 inc/elementor/widgets/team.php:135
+#: inc/elementor/widgets/heading.php:177 inc/elementor/widgets/info-box.php:509
+#: inc/elementor/widgets/info-box.php:535
+#: inc/elementor/widgets/testimonials.php:85
+#: inc/elementor/widgets/testimonials.php:112
+msgid "Dark"
+msgstr ""
+
+#: inc/elementor/widgets/countdown.php:101
+#: inc/elementor/widgets/heading.php:211
+#: inc/elementor/widgets/banner-carousel.php:630
+#: inc/elementor/widgets/counter.php:307 inc/elementor/widgets/banner.php:666
+#: inc/elementor/widgets/info-box.php:459
+#: inc/elementor/widgets/info-box.php:668
+msgid "Dashed"
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:124
+msgid "Data Source"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:178
+#: inc/elementor/widgets/woo-products-and-categories-box.php:246
+#: inc/elementor/widgets/woo-products-grid-carousel.php:206
+#: inc/elementor/widgets/woo-products-tabs.php:218
+#: inc/elementor/widgets/woo-products-widget.php:98
+msgid "Data source"
+msgstr ""
+
+#: widgets/woocommerce-product.php:36 widgets/class-portfolios.php:26
+#: inc/elementor/widgets/woo-products-with-banner.php:251
+#: inc/elementor/widgets/blog-carousel.php:273
+#: inc/elementor/widgets/portfolio.php:163
+#: inc/elementor/widgets/woo-products-and-categories-box.php:306
+#: inc/elementor/widgets/woo-products-grid-carousel.php:279
+#: inc/elementor/widgets/countdown.php:78 inc/elementor/widgets/blog.php:339
+#: inc/elementor/widgets/woo-products-category-tabs.php:278
+#: inc/elementor/widgets/woo-hot-deal-products.php:284
+#: inc/elementor/widgets/portfolio-carousel.php:143
+#: inc/elementor/widgets/woo-products-widget.php:171
+msgid "Date"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:125
+msgid "Deal End Date"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:115
+msgid "Deal Off The Day"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:113
+msgid "Deal title"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:104
+msgid "Deal With Timer"
+msgstr ""
+
+#: widgets/woocommerce-product-sorting.php:60 widgets/class-social-links.php:40
+#: widgets/class-social-links.php:62 posts/posts-content.php:25
+#: inc/elementor/widgets/woo-dokan-vendors.php:89
+#: inc/elementor/widgets/woo-products-with-banner.php:111
+#: inc/elementor/widgets/portfolio.php:130
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:115
+#: inc/elementor/widgets/button.php:215
+#: inc/elementor/widgets/woo-products-grid-carousel.php:114
+#: inc/elementor/widgets/woo-products-grid-carousel.php:147
+#: inc/elementor/widgets/social-buttons.php:86
+#: inc/elementor/widgets/social-buttons.php:113
+#: inc/elementor/widgets/heading.php:175
+#: inc/elementor/widgets/woo-wcfm-vendors.php:89
+#: inc/elementor/widgets/banner-carousel.php:352
+#: inc/elementor/widgets/blog.php:111
+#: inc/elementor/widgets/woo-wc-vendors.php:89
+#: inc/elementor/widgets/woo-products-category-tabs.php:106
+#: inc/elementor/widgets/woo-wcmp-vendors.php:89
+#: inc/elementor/widgets/banner.php:347
+#: inc/elementor/widgets/woo-product-categories.php:103
+#: inc/elementor/widgets/woo-products-tabs.php:104
+#: inc/elementor/widgets/woo-hot-deal-products.php:163
+msgid "Default"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:146
+#: inc/elementor/widgets/woo-products-with-banner.php:266
+#: inc/elementor/widgets/blog-carousel.php:163
+#: inc/elementor/widgets/portfolio.php:175
+#: inc/elementor/widgets/woo-products-and-categories-box.php:321
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:209
+#: inc/elementor/widgets/woo-products-grid-carousel.php:294
+#: inc/elementor/widgets/woo-wcfm-vendors.php:146
+#: inc/elementor/widgets/blog.php:183
+#: inc/elementor/widgets/woo-wc-vendors.php:146
+#: inc/elementor/widgets/woo-products-category-tabs.php:293
+#: inc/elementor/widgets/woo-product-brands.php:169
+#: inc/elementor/widgets/woo-wcmp-vendors.php:146
+#: inc/elementor/widgets/woo-product-categories.php:200
+#: inc/elementor/widgets/woo-hot-deal-products.php:299
+#: inc/elementor/widgets/portfolio-carousel.php:155
+#: inc/elementor/widgets/woo-products-widget.php:186
+msgid "Descending"
+msgstr ""
+
+#: inc/elementor/widgets/contact-us.php:72
+#: inc/elementor/widgets/contact-us.php:129 inc/elementor/widgets/team.php:190
+#: inc/elementor/widgets/info-box.php:117
+#: inc/elementor/widgets/info-box.php:367
+#: inc/elementor/widgets/testimonials.php:158
+msgid "Description"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:281 inc/elementor/widgets/info-box.php:641
+msgid "Design Your Own"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:170
+msgid "Designation"
+msgstr ""
+
+#: inc/elementor/widgets/testimonials.php:166
+msgid "Designation(Job Title)"
+msgstr ""
+
+#. Name of the plugin
+msgid "Matjar Core"
+msgstr ""
+
+#: inc/elementor/class-elementor.php:73
+msgid "Matjar Icons"
+msgstr ""
+
+#: widgets/class-about-us.php:24
+msgid "Matjar: About Us"
+msgstr ""
+
+#: widgets/woocommerce-brand-filter.php:24
+msgid "Matjar: Filter by brands"
+msgstr ""
+
+#: widgets/class-newsletter.php:24
+msgid "Matjar: Newsletter"
+msgstr ""
+
+#: widgets/class-portfolios.php:24
+msgid "Matjar: Portfolio"
+msgstr ""
+
+#: widgets/woocommerce-price-filter.php:31
+msgid "Matjar: Price Filter List"
+msgstr ""
+
+#: widgets/woocommerce-product-attributes-filter.php:26
+msgid "Matjar: Product Attributes Filter"
+msgstr ""
+
+#: widgets/woocommerce-product-sorting.php:17
+msgid "Matjar: Product Sorting"
+msgstr ""
+
+#: widgets/woocommerce-product.php:24
+msgid "Matjar: Products"
+msgstr ""
+
+#: widgets/class-recent-posts.php:24
+msgid "Matjar: Recent Posts"
+msgstr ""
+
+#: widgets/class-social-links.php:24
+msgid "Matjar: Social Links"
+msgstr ""
+
+#: widgets/woocommerce-product.php:22
+msgid "Display a list of products with slider."
+msgstr ""
+
+#: widgets/woocommerce-product-sorting.php:15
+msgid "Display a product sorting list."
+msgstr ""
+
+#: widgets/class-about-us.php:22
+msgid "Display about us "
+msgstr ""
+
+#: widgets/class-newsletter.php:22
+msgid "Display newsletter."
+msgstr ""
+
+#: widgets/class-portfolios.php:22
+msgid "Display portfolios with slider."
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:132
+msgid "Display Read More"
+msgstr ""
+
+#: widgets/class-social-links.php:22
+msgid "Display social links."
+msgstr ""
+
+#: widgets/woocommerce-product-attributes-filter.php:97
+msgid "Display type"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:28
+msgid "Dokan Vendors"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:275
+#: inc/elementor/widgets/woo-products-with-banner.php:362
+#: inc/elementor/widgets/blog-carousel.php:436
+#: inc/elementor/widgets/team.php:341 inc/elementor/widgets/instagram.php:295
+#: inc/elementor/widgets/woo-product-custom-categories.php:339
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:403
+#: inc/elementor/widgets/woo-products-grid-carousel.php:423
+#: inc/elementor/widgets/woo-wcfm-vendors.php:275
+#: inc/elementor/widgets/banner-carousel.php:874
+#: inc/elementor/widgets/woo-wc-vendors.php:275
+#: inc/elementor/widgets/woo-products-category-tabs.php:408
+#: inc/elementor/widgets/woo-product-brands.php:331
+#: inc/elementor/widgets/woo-wcmp-vendors.php:275
+#: inc/elementor/widgets/woo-product-categories.php:389
+#: inc/elementor/widgets/woo-products-tabs.php:431
+#: inc/elementor/widgets/woo-hot-deal-products.php:428
+#: inc/elementor/widgets/portfolio-carousel.php:330
+#: inc/elementor/widgets/woo-products-widget.php:255
+#: inc/elementor/widgets/testimonials.php:277
+#: inc/elementor/widgets/woo-products-recently-viewed.php:170
+msgid "Dots"
+msgstr ""
+
+#: inc/elementor/widgets/countdown.php:102
+#: inc/elementor/widgets/heading.php:212
+#: inc/elementor/widgets/banner-carousel.php:631
+#: inc/elementor/widgets/counter.php:308 inc/elementor/widgets/banner.php:667
+#: inc/elementor/widgets/info-box.php:460
+#: inc/elementor/widgets/info-box.php:669
+msgid "Dotted"
+msgstr ""
+
+#: inc/elementor/widgets/countdown.php:103
+#: inc/elementor/widgets/heading.php:213
+#: inc/elementor/widgets/banner-carousel.php:632
+#: inc/elementor/widgets/counter.php:309 inc/elementor/widgets/banner.php:668
+#: inc/elementor/widgets/info-box.php:461
+#: inc/elementor/widgets/info-box.php:670
+msgid "Double"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:165
+#: inc/elementor/widgets/woo-product-categories.php:156
+msgid ""
+"Each category item will be a sub category of this category. This option is "
+"available when the specific Categories option is empty."
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:226
+msgid ""
+"Each category will be a sub category of this category. This option is "
+"available when the specific Categories option is empty."
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:280
+#: inc/elementor/widgets/blog.php:346
+msgid "Edit"
+msgstr ""
+
+#: posts/posts-content.php:174 posts/posts-content.php:193
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. Description of the plugin
+msgid "Elementor elements for Matjar Theme."
+msgstr ""
+
+#: inc/elementor/class-elementor.php:28
+msgid "Elements"
+msgstr ""
+
+#: inc/functions.php:250
+msgid "Email"
+msgstr ""
+
+#: widgets/class-about-us.php:71
+msgid "Email:"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-tabs.php:197
+msgid "Enable"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-category-tabs.php:188
+#: inc/elementor/widgets/woo-products-tabs.php:186
+msgid "Enable Ajax"
+msgstr ""
+
+#: widgets/woocommerce-product.php:105 widgets/class-recent-posts.php:52
+#: widgets/class-portfolios.php:74
+msgid "Enable Auto play slider?"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-brands.php:187
+msgid "Enable Hover Effect"
+msgstr ""
+
+#: widgets/woocommerce-product.php:95 widgets/class-recent-posts.php:42
+#: widgets/class-portfolios.php:64
+msgid "Enable slider?"
+msgstr ""
+
+#: inc/elementor/widgets/testimonials.php:169
+msgid "Enter client designation"
+msgstr ""
+
+#: inc/elementor/widgets/testimonials.php:138
+msgid "Enter Client name"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:130
+#: inc/elementor/widgets/woo-hot-deal-products.php:142
+msgid "Enter deal end date like YYYY-MM-DD"
+msgstr ""
+
+#: inc/elementor/widgets/progress-bar.php:101
+msgid ""
+"Enter measurement units (Example: %, px, points, etc. Note: graph value and "
+"units will be appended to graph title)."
+msgstr ""
+
+#: inc/elementor/widgets/team.php:193
+msgid "Enter member bio"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:173
+msgid "Enter member designation"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:161
+msgid "Enter member name"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:83
+msgid ""
+"Enter number for counter without any special character. You may enter a "
+"decimal number."
+msgstr ""
+
+#: inc/elementor/widgets/social-buttons.php:65
+msgid "Enter social button type title."
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:108
+msgid "Enter Tagline text here"
+msgstr ""
+
+#: widgets/woocommerce-price-filter.php:312
+msgid ""
+"Enter the price by format: min_price|max_price. Divide price list with "
+"linebreaks (Enter). Example:"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:67
+#: inc/elementor/widgets/woo-wcfm-vendors.php:67
+#: inc/elementor/widgets/woo-wc-vendors.php:67
+#: inc/elementor/widgets/woo-wcmp-vendors.php:67
+#: inc/elementor/widgets/portfolio-carousel.php:80
+msgid "Enter title"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:73
+msgid "Enter title for stats counter block."
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:83
+#: inc/elementor/widgets/instagram.php:69
+#: inc/elementor/widgets/vertical-menu.php:67
+msgid "Enter title."
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:124
+#: inc/elementor/widgets/woo-wcfm-vendors.php:124
+#: inc/elementor/widgets/woo-wc-vendors.php:124
+#: inc/elementor/widgets/woo-wcmp-vendors.php:124
+msgid "Enter vendor id, multiple vendor id with comma-separated."
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:232
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:171
+#: inc/elementor/widgets/woo-product-categories.php:162
+msgid "Exclude Category"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:124
+#: inc/elementor/widgets/blog.php:144
+msgid "Exclude Post"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:227
+#: inc/elementor/widgets/woo-products-and-categories-box.php:279
+#: inc/elementor/widgets/woo-products-grid-carousel.php:255
+#: inc/elementor/widgets/woo-products-category-tabs.php:254
+#: inc/elementor/widgets/woo-products-tabs.php:305
+#: inc/elementor/widgets/woo-products-widget.php:147
+msgid "Exclude Products"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:131
+#: inc/elementor/widgets/blog.php:151
+msgid "Exclude some blog which you do not want to display."
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:234
+#: inc/elementor/widgets/woo-products-and-categories-box.php:286
+#: inc/elementor/widgets/woo-products-grid-carousel.php:262
+#: inc/elementor/widgets/woo-products-category-tabs.php:261
+#: inc/elementor/widgets/woo-products-tabs.php:312
+#: inc/elementor/widgets/woo-products-widget.php:154
+msgid "Exclude some products which you do not want to display."
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:178
+#: inc/elementor/widgets/woo-product-categories.php:169
+msgid "Exclude specific categories."
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:308
+#: inc/elementor/widgets/blog.php:374
+msgid "Expert"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:320
+#: inc/elementor/widgets/blog.php:386
+msgid "Expert Length"
+msgstr ""
+
+#: inc/functions.php:177
+msgid "Facebook"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:200
+msgid "Facebook link"
+msgstr ""
+
+#: widgets/class-about-us.php:67
+msgid "Fax Number:"
+msgstr ""
+
+#: widgets/woocommerce-product.php:29
+msgid "Feature Products"
+msgstr ""
+
+#: templates/elements-widgets/dokan-vendors/default.php:39
+#: templates/elements-widgets/dokan-vendors/boxed.php:39
+#: templates/elements-widgets/dokan-vendors/boxed-center-products.php:39
+#: templates/elements-widgets/dokan-vendors/boxed-simple.php:38
+#: templates/elements-widgets/dokan-vendors/boxed-horizontal-products.php:38
+#: inc/elementor/widgets/woo-products-tabs.php:263
+msgid "Featured"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:182
+#: inc/elementor/widgets/woo-products-and-categories-box.php:250
+#: inc/elementor/widgets/woo-products-grid-carousel.php:210
+#: inc/elementor/widgets/woo-products-tabs.php:222
+#: inc/elementor/widgets/woo-products-widget.php:102
+msgid "Featured Products"
+msgstr ""
+
+#: widgets/class-social-links.php:43
+#: inc/elementor/widgets/social-buttons.php:89
+msgid "Fill Colour"
+msgstr ""
+
+#: widgets/woocommerce-product-attributes-filter.php:76
+msgid "Filter by"
+msgstr ""
+
+#: widgets/woocommerce-brand-filter.php:30
+msgid "Filter by brands"
+msgstr ""
+
+#: inc/elementor/widgets/button.php:161
+#: inc/elementor/widgets/banner-carousel.php:462
+#: inc/elementor/widgets/banner.php:476 inc/elementor/widgets/info-box.php:781
+msgid "Flat"
+msgstr ""
+
+#: inc/functions.php:275
+msgid "Flickr"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:114 inc/elementor/widgets/info-box.php:221
+msgid "Font Icon Manager"
+msgstr ""
+
+#: inc/elementor/widgets/newsletter.php:79
+#: inc/elementor/widgets/contact-us.php:88
+msgid "Form Field Shape"
+msgstr ""
+
+#: inc/elementor/widgets/newsletter.php:67
+msgid "Form Style"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:309
+#: inc/elementor/widgets/blog.php:375
+msgid "Full"
+msgstr ""
+
+#: inc/functions.php:82
+msgid "Full Image"
+msgstr ""
+
+#: templates/elements-widgets/image-gallery.php:28
+#: templates/elements-widgets/instagram/custom.php:32
+msgid "Gallery Image"
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:136
+msgid "Gallery Images"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:58
+#: inc/elementor/widgets/woo-products-with-banner.php:71
+#: inc/elementor/widgets/blog-carousel.php:74
+#: inc/elementor/widgets/newsletter.php:54
+#: inc/elementor/widgets/contact-us.php:58
+#: inc/elementor/widgets/portfolio.php:85 inc/elementor/widgets/team.php:60
+#: inc/elementor/widgets/instagram.php:60
+#: inc/elementor/widgets/woo-product-custom-categories.php:61
+#: inc/elementor/widgets/woo-products-and-categories-box.php:72
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:74
+#: inc/elementor/widgets/button.php:61
+#: inc/elementor/widgets/woo-products-grid-carousel.php:73
+#: inc/elementor/widgets/social-buttons.php:57
+#: inc/elementor/widgets/countdown.php:63
+#: inc/elementor/widgets/woo-wcfm-vendors.php:58
+#: inc/elementor/widgets/banner-carousel.php:75
+#: inc/elementor/widgets/progress-bar.php:71 inc/elementor/widgets/blog.php:86
+#: inc/elementor/widgets/woo-wc-vendors.php:58
+#: inc/elementor/widgets/woo-products-category-tabs.php:73
+#: inc/elementor/widgets/counter.php:64
+#: inc/elementor/widgets/woo-product-brands.php:72
+#: inc/elementor/widgets/woo-wcmp-vendors.php:58
+#: inc/elementor/widgets/banner.php:75
+#: inc/elementor/widgets/woo-product-categories.php:74
+#: inc/elementor/widgets/woo-products-tabs.php:71
+#: inc/elementor/widgets/menu-block.php:49
+#: inc/elementor/widgets/woo-hot-deal-products.php:74
+#: inc/elementor/widgets/vertical-menu.php:58
+#: inc/elementor/widgets/portfolio-carousel.php:71
+#: inc/elementor/widgets/info-box.php:73
+#: inc/elementor/widgets/woo-products-widget.php:71
+#: inc/elementor/widgets/testimonials.php:60
+#: inc/elementor/widgets/woo-products-recently-viewed.php:71
+msgid "General"
+msgstr ""
+
+#: inc/functions.php:293
+msgid "Github"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:77
+#: inc/elementor/widgets/instagram.php:80
+#: inc/elementor/widgets/woo-product-custom-categories.php:71
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:92
+#: inc/elementor/widgets/woo-products-grid-carousel.php:91
+#: inc/elementor/widgets/woo-wcfm-vendors.php:77
+#: inc/elementor/widgets/woo-wc-vendors.php:77
+#: inc/elementor/widgets/woo-products-category-tabs.php:83
+#: inc/elementor/widgets/woo-product-brands.php:90
+#: inc/elementor/widgets/woo-wcmp-vendors.php:77
+#: inc/elementor/widgets/woo-product-categories.php:92
+#: inc/elementor/widgets/woo-products-tabs.php:81
+#: inc/elementor/widgets/woo-hot-deal-products.php:92
+msgid "Grid"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:105
+#: inc/elementor/widgets/portfolio-carousel.php:100
+msgid "Grid Gapping"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:193 inc/elementor/widgets/blog.php:204
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:157
+#: inc/elementor/widgets/portfolio.php:186
+#: inc/elementor/widgets/instagram.php:172
+#: inc/elementor/widgets/woo-product-custom-categories.php:228
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:273
+#: inc/elementor/widgets/woo-products-grid-carousel.php:305
+#: inc/elementor/widgets/woo-wcfm-vendors.php:157
+#: inc/elementor/widgets/blog.php:194
+#: inc/elementor/widgets/woo-wc-vendors.php:157
+#: inc/elementor/widgets/woo-products-category-tabs.php:304
+#: inc/elementor/widgets/woo-product-brands.php:205
+#: inc/elementor/widgets/woo-wcmp-vendors.php:157
+#: inc/elementor/widgets/woo-product-categories.php:271
+#: inc/elementor/widgets/woo-products-tabs.php:328
+#: inc/elementor/widgets/woo-hot-deal-products.php:310
+msgid "Grid Settings"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:24 inc/elementor/widgets/heading.php:59
+msgid "Heading"
+msgstr ""
+
+#: templates/elements-widgets/heading.php:18
+msgid "Heading Image"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:185
+#: inc/elementor/widgets/blog-carousel.php:213
+#: inc/elementor/widgets/blog-carousel.php:225
+#: inc/elementor/widgets/blog-carousel.php:246
+#: inc/elementor/widgets/blog-carousel.php:260
+#: inc/elementor/widgets/blog-carousel.php:296
+#: inc/elementor/widgets/blog-carousel.php:336
+#: inc/elementor/widgets/portfolio.php:234
+#: inc/elementor/widgets/portfolio.php:246
+#: inc/elementor/widgets/portfolio.php:258
+#: inc/elementor/widgets/portfolio.php:273
+#: inc/elementor/widgets/portfolio.php:288
+#: inc/elementor/widgets/portfolio.php:300
+#: inc/elementor/widgets/portfolio.php:315 inc/elementor/widgets/blog.php:251
+#: inc/elementor/widgets/blog.php:279 inc/elementor/widgets/blog.php:291
+#: inc/elementor/widgets/blog.php:312 inc/elementor/widgets/blog.php:326
+#: inc/elementor/widgets/blog.php:362 inc/elementor/widgets/blog.php:402
+#: inc/elementor/widgets/portfolio-carousel.php:178
+#: inc/elementor/widgets/portfolio-carousel.php:190
+#: inc/elementor/widgets/portfolio-carousel.php:205
+#: inc/elementor/widgets/portfolio-carousel.php:220
+#: inc/elementor/widgets/portfolio-carousel.php:232
+#: inc/elementor/widgets/portfolio-carousel.php:247
+msgid "Hide"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:102
+msgid "Hide Action Button"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:136
+msgid "Hide Elements After Deal Ends."
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-brands.php:195
+msgid "Hide Empty Brands"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:114
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:226
+#: inc/elementor/widgets/woo-product-categories.php:220
+msgid "Hide Empty Categories"
+msgstr ""
+
+#: widgets/woocommerce-product.php:81
+msgid "Hide free products?"
+msgstr ""
+
+#: widgets/class-about-us.php:36
+msgid "Hide Title?"
+msgstr ""
+
+#: widgets/class-social-links.php:33
+msgid "Hide Widget Title?"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:208
+msgid "Highlighted with Border"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:94
+#: inc/elementor/widgets/woo-products-grid-carousel.php:103
+#: inc/elementor/widgets/woo-products-category-tabs.php:95
+#: inc/elementor/widgets/woo-products-tabs.php:93
+#: inc/elementor/widgets/woo-hot-deal-products.php:152
+msgid "Horizontal"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:715
+#: inc/elementor/widgets/banner.php:751
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:28
+msgid "Hot Deal Products"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:82
+msgid "Hot Deals"
+msgstr ""
+
+#: inc/elementor/widgets/button.php:276 inc/elementor/widgets/banner.php:573
+#: inc/elementor/widgets/info-box.php:867
+msgid "Hover"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:119
+#: inc/elementor/widgets/banner-carousel.php:551
+msgid "Hover Background Color"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:242
+#: inc/elementor/widgets/portfolio-carousel.php:174
+msgid "Hover Button Icon"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:130
+#: inc/elementor/widgets/banner-carousel.php:567
+msgid "Hover Color"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:204
+#: inc/elementor/widgets/banner.php:191
+msgid "Hover Style"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://matjar.themejr.net/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://templatemonster.com/store/themejr"
+msgstr ""
+
+#: inc/elementor/widgets/button.php:83
+#: inc/elementor/widgets/banner-carousel.php:179
+#: inc/elementor/widgets/banner.php:173 inc/elementor/widgets/info-box.php:142
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:116
+#: inc/elementor/widgets/button.php:131
+#: inc/elementor/widgets/banner-carousel.php:163
+#: inc/elementor/widgets/counter.php:105 inc/elementor/widgets/counter.php:123
+#: inc/elementor/widgets/counter.php:210 inc/elementor/widgets/banner.php:157
+#: inc/elementor/widgets/vertical-menu.php:98
+#: inc/elementor/widgets/info-box.php:195
+#: inc/elementor/widgets/info-box.php:212
+#: inc/elementor/widgets/info-box.php:231
+#: inc/elementor/widgets/info-box.php:561
+msgid "Icon"
+msgstr ""
+
+#: inc/elementor/widgets/button.php:115
+#: inc/elementor/widgets/banner-carousel.php:147
+#: inc/elementor/widgets/banner.php:141
+#: inc/elementor/widgets/vertical-menu.php:82
+#: inc/elementor/widgets/info-box.php:178
+msgid "Icon Alignment"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:302 inc/elementor/widgets/info-box.php:663
+msgid "Icon Border Style"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:275
+msgid "Icon Bounce Up"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:248
+msgid "Icon Color"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:270
+msgid "Icon Hover Effect"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:219 inc/elementor/widgets/info-box.php:570
+msgid "Icon Image Width(px)"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:418
+msgid "Icon Left"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:262
+msgid "Icon Position"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:419
+msgid "Icon Right"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:233 inc/elementor/widgets/info-box.php:590
+msgid "Icon Size"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:275 inc/elementor/widgets/info-box.php:635
+msgid "Icon Style"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:111 inc/elementor/widgets/info-box.php:218
+msgid "Icon to display"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:417
+msgid "Icon Top"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:274
+msgid "Icon Zoom"
+msgstr ""
+
+#: inc/elementor/widgets/social-buttons.php:98
+msgid "Icons Shape"
+msgstr ""
+
+#: widgets/class-social-links.php:51
+msgid "Icons Shape:"
+msgstr ""
+
+#: inc/elementor/widgets/social-buttons.php:110
+msgid "Icons Size"
+msgstr ""
+
+#: widgets/class-social-links.php:60
+msgid "Icons Size:"
+msgstr ""
+
+#: inc/elementor/widgets/social-buttons.php:83
+msgid "Icons Style"
+msgstr ""
+
+#: widgets/class-social-links.php:38
+msgid "Icons Style:"
+msgstr ""
+
+#: widgets/woocommerce-product.php:40 widgets/class-portfolios.php:30
+#: inc/elementor/widgets/woo-dokan-vendors.php:135
+#: inc/elementor/widgets/woo-products-with-banner.php:255
+#: inc/elementor/widgets/woo-products-and-categories-box.php:310
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:197
+#: inc/elementor/widgets/woo-products-grid-carousel.php:283
+#: inc/elementor/widgets/woo-wcfm-vendors.php:135
+#: inc/elementor/widgets/woo-wc-vendors.php:135
+#: inc/elementor/widgets/woo-products-category-tabs.php:282
+#: inc/elementor/widgets/woo-product-brands.php:158
+#: inc/elementor/widgets/woo-wcmp-vendors.php:135
+#: inc/elementor/widgets/woo-product-categories.php:188
+#: inc/elementor/widgets/woo-hot-deal-products.php:288
+#: inc/elementor/widgets/woo-products-widget.php:175
+msgid "ID"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:119
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:205
+#: inc/elementor/widgets/heading.php:162
+msgid "Image"
+msgstr ""
+
+#: inc/elementor/widgets/testimonials.php:71
+msgid "Image Bottom Left"
+msgstr ""
+
+#: inc/elementor/widgets/testimonials.php:70
+msgid "Image Middle Center"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:71
+msgid "Image Middle With Swap Box"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:122
+msgid "Image Position"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:124
+#: inc/elementor/widgets/woo-product-brands.php:110
+#: inc/elementor/widgets/woo-product-categories.php:130
+msgid "Image Size"
+msgstr ""
+
+#: inc/elementor/widgets/testimonials.php:69
+msgid "Image Top Center"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:72
+msgid "Image Top With Bottom Info"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:69
+msgid "Image Top With Box"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:70
+msgid "Image Top With Box 2"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:112
+msgid "Image Type"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:133
+#: inc/elementor/widgets/heading.php:268
+#: inc/elementor/widgets/woo-product-brands.php:119
+msgid "Image Width"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:73
+msgid "Image With Bottom Overlay"
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:117
+msgid "Images"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:195
+#: inc/elementor/widgets/woo-products-and-categories-box.php:263
+#: inc/elementor/widgets/woo-products-grid-carousel.php:223
+#: inc/elementor/widgets/woo-products-tabs.php:235
+#: inc/elementor/widgets/woo-products-widget.php:115
+msgid "Include Product Ids"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:131
+#: inc/elementor/widgets/woo-products-grid-carousel.php:148
+#: inc/elementor/widgets/blog.php:112
+msgid "Infinity Scroll"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:30
+msgid "Info Box"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:90
+msgid "Infobox Title"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:109 inc/elementor/widgets/team.php:133
+#: inc/elementor/widgets/info-box.php:507
+#: inc/elementor/widgets/info-box.php:533
+#: inc/elementor/widgets/testimonials.php:83
+#: inc/elementor/widgets/testimonials.php:110
+msgid "Inherit"
+msgstr ""
+
+#: widgets/woocommerce-product-attributes-filter.php:100
+msgid "Inline"
+msgstr ""
+
+#: inc/elementor/widgets/countdown.php:104
+#: inc/elementor/widgets/heading.php:214
+#: inc/elementor/widgets/banner-carousel.php:633
+#: inc/elementor/widgets/counter.php:310 inc/elementor/widgets/banner.php:669
+#: inc/elementor/widgets/info-box.php:462
+#: inc/elementor/widgets/info-box.php:671
+msgid "Inset"
+msgstr ""
+
+#: inc/functions.php:269 inc/elementor/widgets/instagram.php:30
+msgid "Instagram"
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:440
+msgid "Instagram did not return any images."
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:417
+msgid "Instagram has returned invalid data."
+msgstr ""
+
+#: inc/elementor/widgets/team.php:228
+msgid "Instagram link"
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:70
+msgid "Instagram."
+msgstr ""
+
+#: widgets/class-about-us.php:143
+msgid "Invalid Email Address"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:701
+#: inc/elementor/widgets/banner-carousel.php:757
+#: inc/elementor/widgets/banner.php:737 inc/elementor/widgets/banner.php:793
+msgid "Justify"
+msgstr ""
+
+#: inc/elementor/widgets/progress-bar.php:138
+#: inc/elementor/widgets/menu-block.php:75
+#: inc/elementor/widgets/menu-block.php:121
+msgid "Label"
+msgstr ""
+
+#: inc/elementor/widgets/menu-block.php:82
+#: inc/elementor/widgets/menu-block.php:128
+msgid "Label Color"
+msgstr ""
+
+#: widgets/class-social-links.php:64
+#: inc/elementor/widgets/social-buttons.php:115
+msgid "Large"
+msgstr ""
+
+#: inc/functions.php:350 inc/elementor/widgets/blog-carousel.php:150
+#: inc/elementor/widgets/blog.php:170
+msgid "Last Modified Posts"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:79
+#: inc/elementor/widgets/woo-products-grid-carousel.php:81
+#: inc/elementor/widgets/woo-products-category-tabs.php:161
+#: inc/elementor/widgets/woo-products-tabs.php:159
+msgid "Latest Products"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:73
+#: inc/elementor/widgets/woo-products-with-banner.php:85
+#: inc/elementor/widgets/instagram.php:76
+#: inc/elementor/widgets/woo-product-custom-categories.php:67
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:88
+#: inc/elementor/widgets/woo-products-grid-carousel.php:87
+#: inc/elementor/widgets/woo-wcfm-vendors.php:73
+#: inc/elementor/widgets/woo-wc-vendors.php:73
+#: inc/elementor/widgets/woo-products-category-tabs.php:79
+#: inc/elementor/widgets/woo-product-brands.php:86
+#: inc/elementor/widgets/woo-wcmp-vendors.php:73
+#: inc/elementor/widgets/woo-product-categories.php:88
+#: inc/elementor/widgets/woo-products-tabs.php:77
+#: inc/elementor/widgets/woo-hot-deal-products.php:88
+#: inc/elementor/widgets/woo-products-widget.php:86
+msgid "Layout"
+msgstr ""
+
+#: inc/elementor/base.php:18 inc/elementor/base.php:35
+#: inc/elementor/widgets/woo-product-custom-categories.php:124
+#: inc/elementor/widgets/button.php:118
+#: inc/elementor/widgets/banner-carousel.php:150
+#: inc/elementor/widgets/banner-carousel.php:689
+#: inc/elementor/widgets/banner-carousel.php:719
+#: inc/elementor/widgets/woo-products-category-tabs.php:174
+#: inc/elementor/widgets/counter.php:266 inc/elementor/widgets/banner.php:144
+#: inc/elementor/widgets/banner.php:725 inc/elementor/widgets/banner.php:755
+#: inc/elementor/widgets/woo-products-tabs.php:172
+#: inc/elementor/widgets/vertical-menu.php:85
+#: inc/elementor/widgets/info-box.php:181
+msgid "Left"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:110 inc/elementor/widgets/team.php:134
+#: inc/elementor/widgets/heading.php:176 inc/elementor/widgets/info-box.php:508
+#: inc/elementor/widgets/info-box.php:534
+#: inc/elementor/widgets/testimonials.php:84
+#: inc/elementor/widgets/testimonials.php:111
+msgid "Light"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:161
+msgid "Line"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:241
+msgid "Line Color"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:207
+msgid "Line Style"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:228
+msgid "Line Width"
+msgstr ""
+
+#: inc/elementor/class-elementor.php:246
+#: inc/elementor/widgets/blog-carousel.php:351
+#: inc/elementor/widgets/button.php:78 inc/elementor/widgets/button.php:163
+#: inc/elementor/widgets/banner-carousel.php:464
+#: inc/elementor/widgets/blog.php:417 inc/elementor/widgets/banner.php:478
+#: inc/elementor/widgets/menu-block.php:63
+#: inc/elementor/widgets/menu-block.php:109
+#: inc/elementor/widgets/info-box.php:783
+msgid "Link"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:254
+#: inc/elementor/widgets/portfolio-carousel.php:186
+msgid "Link Button Icon"
+msgstr ""
+
+#: inc/functions.php:189
+msgid "LinkedIn"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:214
+msgid "Linkedin link"
+msgstr ""
+
+#: widgets/woocommerce-product-attributes-filter.php:99
+#: inc/elementor/widgets/woo-products-widget.php:89
+msgid "List"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:186
+#: inc/elementor/widgets/woo-products-and-categories-box.php:254
+#: inc/elementor/widgets/woo-products-grid-carousel.php:214
+#: inc/elementor/widgets/woo-products-tabs.php:226
+#: inc/elementor/widgets/woo-products-widget.php:106
+msgid "List of Products"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:132
+#: inc/elementor/widgets/woo-products-grid-carousel.php:149
+#: inc/elementor/widgets/blog.php:113
+msgid "Load More"
+msgstr ""
+
+#: templates/elements-widgets/wcfm-vendors/default.php:81
+#: templates/elements-widgets/wcfm-vendors/boxed.php:54
+#: templates/elements-widgets/wcfm-vendors/boxed-center-products.php:50
+#: templates/elements-widgets/wcfm-vendors/boxed-simple.php:45
+#: templates/elements-widgets/wcfm-vendors/boxed-horizontal-products.php:46
+msgid "Logo"
+msgstr ""
+
+#: widgets/class-about-us.php:45
+msgid "Logo Size:"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:236
+#: inc/elementor/widgets/woo-products-with-banner.php:323
+#: inc/elementor/widgets/blog-carousel.php:397
+#: inc/elementor/widgets/team.php:317 inc/elementor/widgets/instagram.php:256
+#: inc/elementor/widgets/woo-product-custom-categories.php:315
+#: inc/elementor/widgets/woo-products-and-categories-box.php:365
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:364
+#: inc/elementor/widgets/woo-products-grid-carousel.php:384
+#: inc/elementor/widgets/woo-wcfm-vendors.php:236
+#: inc/elementor/widgets/banner-carousel.php:835
+#: inc/elementor/widgets/woo-wc-vendors.php:236
+#: inc/elementor/widgets/woo-products-category-tabs.php:384
+#: inc/elementor/widgets/woo-product-brands.php:292
+#: inc/elementor/widgets/woo-wcmp-vendors.php:236
+#: inc/elementor/widgets/woo-product-categories.php:350
+#: inc/elementor/widgets/woo-products-tabs.php:407
+#: inc/elementor/widgets/woo-hot-deal-products.php:389
+#: inc/elementor/widgets/portfolio-carousel.php:291
+#: inc/elementor/widgets/woo-products-widget.php:231
+#: inc/elementor/widgets/testimonials.php:253
+#: inc/elementor/widgets/woo-products-recently-viewed.php:131
+msgid "Loop"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:119
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, "
+"luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: inc/elementor/extend-element/accordion.php:44
+#: inc/elementor/widgets/banner-carousel.php:330
+#: inc/elementor/widgets/banner-carousel.php:414
+#: inc/elementor/widgets/banner.php:321 inc/elementor/widgets/banner.php:409
+#: inc/elementor/widgets/banner.php:450 inc/elementor/widgets/info-box.php:312
+#: inc/elementor/widgets/info-box.php:352
+#: inc/elementor/widgets/info-box.php:751
+msgid "Margin Bottom"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:512
+#: inc/elementor/widgets/banner.php:526 inc/elementor/widgets/info-box.php:393
+msgid "Margin Top"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:197 inc/elementor/widgets/blog.php:208
+msgid "Masonry"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:282
+#: inc/elementor/widgets/banner.php:269
+msgid "Max Height"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:284
+#: inc/elementor/widgets/banner.php:271
+msgid "Max height value of banner."
+msgstr ""
+
+#: inc/elementor/widgets/menu-block.php:28
+msgid "Mega Menu Item"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:148 inc/elementor/widgets/counter.php:72
+#: inc/elementor/widgets/testimonials.php:125
+msgid "Member"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:179
+#: inc/elementor/widgets/testimonials.php:147
+msgid "Member Avatar"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:82
+msgid "Member Avatar Image size"
+msgstr ""
+
+#: inc/elementor/widgets/menu-block.php:57
+#: inc/elementor/widgets/menu-block.php:138
+msgid "Menu Item"
+msgstr ""
+
+#: inc/elementor/widgets/vertical-menu.php:117
+msgid "Menu Title"
+msgstr ""
+
+#: inc/elementor/base.php:56 inc/elementor/widgets/banner-carousel.php:749
+#: inc/elementor/widgets/banner.php:785
+msgid "Middle"
+msgstr ""
+
+#: inc/elementor/widgets/banner.php:111
+msgid "Min 20% Off"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:249
+#: inc/elementor/widgets/banner.php:236
+msgid "Min Height"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:251
+#: inc/elementor/widgets/banner.php:238
+msgid "Min height value of banner."
+msgstr ""
+
+#: inc/functions.php:351 inc/elementor/widgets/blog-carousel.php:151
+#: inc/elementor/widgets/blog.php:171
+msgid "Most Commented posts"
+msgstr ""
+
+#: inc/functions.php:353 inc/elementor/widgets/blog-carousel.php:152
+#: inc/elementor/widgets/blog.php:172
+msgid "Most Viewed posts"
+msgstr ""
+
+#: templates/elements-widgets/wcfm-vendors/default.php:21
+#: templates/elements-widgets/wcfm-vendors/boxed.php:21
+#: templates/elements-widgets/wcfm-vendors/boxed-center-products.php:21
+#: templates/elements-widgets/wcfm-vendors/boxed-simple.php:20
+#: templates/elements-widgets/wcfm-vendors/boxed-horizontal-products.php:21
+msgid "N/A"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:158
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:195
+#: inc/elementor/widgets/woo-product-brands.php:156
+#: inc/elementor/widgets/woo-product-categories.php:186
+#: inc/elementor/widgets/testimonials.php:135
+msgid "Name"
+msgstr ""
+
+#: widgets/woocommerce-product.php:38 widgets/class-portfolios.php:28
+#: inc/elementor/widgets/woo-products-with-banner.php:253
+#: inc/elementor/widgets/woo-products-and-categories-box.php:308
+#: inc/elementor/widgets/woo-products-grid-carousel.php:281
+#: inc/elementor/widgets/woo-products-category-tabs.php:280
+#: inc/elementor/widgets/woo-hot-deal-products.php:286
+#: inc/elementor/widgets/woo-products-widget.php:173
+msgid "Name(Slug)"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:252
+#: inc/elementor/widgets/woo-products-with-banner.php:339
+#: inc/elementor/widgets/blog-carousel.php:413
+#: inc/elementor/widgets/team.php:333 inc/elementor/widgets/instagram.php:272
+#: inc/elementor/widgets/woo-product-custom-categories.php:331
+#: inc/elementor/widgets/woo-products-and-categories-box.php:381
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:380
+#: inc/elementor/widgets/woo-products-grid-carousel.php:400
+#: inc/elementor/widgets/woo-wcfm-vendors.php:252
+#: inc/elementor/widgets/banner-carousel.php:851
+#: inc/elementor/widgets/woo-wc-vendors.php:252
+#: inc/elementor/widgets/woo-products-category-tabs.php:400
+#: inc/elementor/widgets/woo-product-brands.php:308
+#: inc/elementor/widgets/woo-wcmp-vendors.php:252
+#: inc/elementor/widgets/woo-product-categories.php:366
+#: inc/elementor/widgets/woo-products-tabs.php:423
+#: inc/elementor/widgets/woo-hot-deal-products.php:405
+#: inc/elementor/widgets/portfolio-carousel.php:307
+#: inc/elementor/widgets/woo-products-widget.php:247
+#: inc/elementor/widgets/testimonials.php:269
+#: inc/elementor/widgets/woo-products-recently-viewed.php:147
+msgid "Nav"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:260
+#: inc/elementor/widgets/woo-products-with-banner.php:347
+#: inc/elementor/widgets/blog-carousel.php:421
+#: inc/elementor/widgets/instagram.php:280
+#: inc/elementor/widgets/woo-products-and-categories-box.php:389
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:388
+#: inc/elementor/widgets/woo-products-grid-carousel.php:408
+#: inc/elementor/widgets/woo-wcfm-vendors.php:260
+#: inc/elementor/widgets/banner-carousel.php:859
+#: inc/elementor/widgets/woo-wc-vendors.php:260
+#: inc/elementor/widgets/woo-product-brands.php:316
+#: inc/elementor/widgets/woo-wcmp-vendors.php:260
+#: inc/elementor/widgets/woo-product-categories.php:374
+#: inc/elementor/widgets/woo-hot-deal-products.php:413
+#: inc/elementor/widgets/portfolio-carousel.php:315
+#: inc/elementor/widgets/woo-products-recently-viewed.php:155
+msgid "Navigation Position"
+msgstr ""
+
+#: posts/posts-content.php:175
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: posts/posts-content.php:196
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:161
+msgid "New window"
+msgstr ""
+
+#: widgets/woocommerce-product-sorting.php:63
+msgid "Newness"
+msgstr ""
+
+#: widgets/class-newsletter.php:30 inc/elementor/widgets/newsletter.php:27
+msgid "Newsletter"
+msgstr ""
+
+#: widgets/class-newsletter.php:34
+msgid "Newsletter Tagline"
+msgstr ""
+
+#: templates/elements-widgets/portfolio.php:49
+#: templates/elements-widgets/woo-products-grid-carousel.php:59
+#: templates/elements-widgets/blog.php:40
+msgid "Next"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:198
+#: inc/elementor/widgets/blog.php:264
+msgid "No"
+msgstr ""
+
+#: posts/posts-content.php:178
+#, php-format
+msgid "No %s found"
+msgstr ""
+
+#: posts/posts-content.php:179
+#, php-format
+msgid "No %s found in Trash"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:530
+msgid "No categories were found matching your selection"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:273
+msgid "No Effect"
+msgstr ""
+
+#: inc/functions.php:48
+msgid "No Image"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:129
+msgid "No Link"
+msgstr ""
+
+#: templates/elements-widgets/products-and-categories-box/only-products.php:47
+msgid "No products were found matching your selection"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:108
+#: inc/elementor/widgets/portfolio.php:129
+#: inc/elementor/widgets/instagram.php:99
+#: inc/elementor/widgets/woo-products-grid-carousel.php:146
+#: inc/elementor/widgets/countdown.php:99 inc/elementor/widgets/heading.php:159
+#: inc/elementor/widgets/banner-carousel.php:207
+#: inc/elementor/widgets/banner-carousel.php:628
+#: inc/elementor/widgets/blog.php:110 inc/elementor/widgets/counter.php:305
+#: inc/elementor/widgets/banner.php:194 inc/elementor/widgets/banner.php:664
+#: inc/elementor/widgets/portfolio-carousel.php:103
+#: inc/elementor/widgets/info-box.php:457
+#: inc/elementor/widgets/info-box.php:666
+msgid "None"
+msgstr ""
+
+#: inc/elementor/widgets/button.php:242 inc/elementor/widgets/banner.php:539
+#: inc/elementor/widgets/info-box.php:833
+msgid "Normal"
+msgstr ""
+
+#: inc/elementor/widgets/countdown.php:176
+msgid "Number Color"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-brands.php:145
+msgid "Number of Brands"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:184
+#: inc/elementor/widgets/woo-product-categories.php:175
+msgid "Number of Categories"
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:88
+msgid "Number Of Photos"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio-carousel.php:131
+msgid "Number Of Portfolios"
+msgstr ""
+
+#: widgets/class-recent-posts.php:38 widgets/class-portfolios.php:48
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:240
+#: inc/elementor/widgets/woo-products-and-categories-box.php:295
+#: inc/elementor/widgets/woo-products-grid-carousel.php:268
+#: inc/elementor/widgets/woo-products-category-tabs.php:267
+#: inc/elementor/widgets/woo-products-tabs.php:318
+#: inc/elementor/widgets/woo-hot-deal-products.php:273
+#: inc/elementor/widgets/woo-products-widget.php:160
+#: inc/elementor/widgets/woo-products-recently-viewed.php:86
+msgid "Number Of Products"
+msgstr ""
+
+#: widgets/woocommerce-product.php:64
+msgid "Number of products to show:"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:113
+#: inc/elementor/widgets/woo-wcfm-vendors.php:113
+#: inc/elementor/widgets/woo-wc-vendors.php:113
+#: inc/elementor/widgets/woo-wcmp-vendors.php:113
+msgid "Number Of Vendor"
+msgstr ""
+
+#: inc/functions.php:224
+msgid "Odnoklassniki"
+msgstr ""
+
+#: widgets/woocommerce-product-attributes-filter.php:110
+#: widgets/woocommerce-product-attributes-filter.php:119
+msgid "OFF"
+msgstr ""
+
+#: widgets/woocommerce-product-attributes-filter.php:109
+#: widgets/woocommerce-product-attributes-filter.php:118
+msgid "ON"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:219
+msgid "On Product Image"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-tabs.php:268
+msgid "On Sale"
+msgstr ""
+
+#: widgets/woocommerce-product.php:30
+#: inc/elementor/widgets/woo-products-with-banner.php:183
+#: inc/elementor/widgets/woo-products-and-categories-box.php:251
+#: inc/elementor/widgets/woo-products-grid-carousel.php:211
+#: inc/elementor/widgets/woo-products-tabs.php:223
+#: inc/elementor/widgets/woo-products-widget.php:103
+msgid "On Sale Products"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:92
+msgid "Only Categories"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:128
+#: inc/elementor/widgets/woo-products-grid-carousel.php:131
+#: inc/elementor/widgets/woo-products-category-tabs.php:123
+#: inc/elementor/widgets/woo-products-tabs.php:121
+#: inc/elementor/widgets/woo-hot-deal-products.php:180
+msgid "Only Icon"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:91
+msgid "Only Products"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-category-tabs.php:148
+#: inc/elementor/widgets/woo-products-tabs.php:146
+msgid "Only Tabs"
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:158
+msgid "Open Link In"
+msgstr ""
+
+#: widgets/woocommerce-product-attributes-filter.php:91
+msgid "OR"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:131
+#: inc/elementor/widgets/woo-products-with-banner.php:248
+#: inc/elementor/widgets/blog-carousel.php:145
+#: inc/elementor/widgets/portfolio.php:159
+#: inc/elementor/widgets/woo-products-and-categories-box.php:303
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:192
+#: inc/elementor/widgets/woo-products-grid-carousel.php:276
+#: inc/elementor/widgets/woo-wcfm-vendors.php:131
+#: inc/elementor/widgets/blog.php:165
+#: inc/elementor/widgets/woo-wc-vendors.php:131
+#: inc/elementor/widgets/woo-products-category-tabs.php:275
+#: inc/elementor/widgets/woo-product-brands.php:153
+#: inc/elementor/widgets/woo-wcmp-vendors.php:131
+#: inc/elementor/widgets/woo-product-categories.php:183
+#: inc/elementor/widgets/woo-hot-deal-products.php:281
+#: inc/elementor/widgets/portfolio-carousel.php:139
+#: inc/elementor/widgets/woo-products-widget.php:168
+msgid "Order By"
+msgstr ""
+
+#: widgets/woocommerce-product.php:68 widgets/class-portfolios.php:52
+msgid "Order By:"
+msgstr ""
+
+#: widgets/woocommerce-product.php:74 widgets/class-portfolios.php:58
+msgid "Order:"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio-carousel.php:79
+msgid "Our Portfolio"
+msgstr ""
+
+#: templates/elements-widgets/dokan-vendors/default.php:47
+#: templates/elements-widgets/dokan-vendors/boxed.php:47
+#: templates/elements-widgets/dokan-vendors/boxed-center-products.php:54
+#: templates/elements-widgets/dokan-vendors/boxed-simple.php:49
+#: templates/elements-widgets/dokan-vendors/boxed-horizontal-products.php:48
+msgid "out of 5"
+msgstr ""
+
+#: inc/elementor/widgets/button.php:162
+#: inc/elementor/widgets/banner-carousel.php:463
+#: inc/elementor/widgets/banner.php:477 inc/elementor/widgets/info-box.php:782
+msgid "Outline"
+msgstr ""
+
+#: inc/elementor/widgets/countdown.php:105
+#: inc/elementor/widgets/heading.php:215
+#: inc/elementor/widgets/banner-carousel.php:634
+#: inc/elementor/widgets/counter.php:311 inc/elementor/widgets/banner.php:670
+#: inc/elementor/widgets/info-box.php:463
+#: inc/elementor/widgets/info-box.php:672
+msgid "Outset"
+msgstr ""
+
+#: inc/elementor/widgets/newsletter.php:70
+msgid "Overlay Form"
+msgstr ""
+
+#: inc/elementor/widgets/button.php:197
+#: inc/elementor/widgets/banner-carousel.php:238
+#: inc/elementor/widgets/banner-carousel.php:375
+#: inc/elementor/widgets/banner-carousel.php:497
+#: inc/elementor/widgets/banner-carousel.php:614
+#: inc/elementor/widgets/banner.php:225 inc/elementor/widgets/banner.php:370
+#: inc/elementor/widgets/banner.php:511 inc/elementor/widgets/banner.php:650
+#: inc/elementor/widgets/info-box.php:816
+msgid "Padding"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:126
+msgid "Pagination"
+msgstr ""
+
+#: posts/posts-content.php:191
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: posts/posts-content.php:192
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:219
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:161
+#: inc/elementor/widgets/woo-product-categories.php:152
+msgid "Parent Category"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:137
+#: inc/elementor/widgets/portfolio.php:151 inc/elementor/widgets/blog.php:157
+msgid "Per Page"
+msgstr ""
+
+#: widgets/class-recent-posts.php:47 widgets/class-portfolios.php:69
+msgid "Per slide show posts:"
+msgstr ""
+
+#: widgets/woocommerce-product.php:100
+msgid "Per slide show products:"
+msgstr ""
+
+#: widgets/class-about-us.php:63
+msgid "Phone Number:"
+msgstr ""
+
+#: inc/functions.php:207
+msgid "Pinterest"
+msgstr ""
+
+#: inc/functions.php:230
+msgid "Pocket"
+msgstr ""
+
+#: widgets/woocommerce-product-sorting.php:61
+msgid "Popularity"
+msgstr ""
+
+#: posts/posts-content.php:40 inc/elementor/widgets/portfolio.php:28
+msgid "Portfolio"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio-carousel.php:28
+msgid "Portfolio Carousel"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:296
+#: inc/elementor/widgets/portfolio-carousel.php:228
+msgid "Portfolio Category"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:284
+#: inc/elementor/widgets/portfolio-carousel.php:216
+msgid "Portfolio Content Part"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:230
+msgid "Portfolio Filter"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:223
+#: inc/elementor/widgets/portfolio-carousel.php:167
+msgid "Portfolio Settings"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:311
+#: inc/elementor/widgets/portfolio-carousel.php:77
+#: inc/elementor/widgets/portfolio-carousel.php:243
+msgid "Portfolio Title"
+msgstr ""
+
+#: widgets/class-portfolios.php:40 posts/posts-content.php:41
+msgid "Portfolios"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:221
+#: inc/elementor/widgets/blog.php:287
+msgid "Post Categories"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:305
+#: inc/elementor/widgets/blog.php:371
+msgid "Post Content"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:209
+#: inc/elementor/widgets/blog.php:275
+msgid "Post Date"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:256
+#: inc/elementor/widgets/blog-carousel.php:269
+#: inc/elementor/widgets/blog.php:322 inc/elementor/widgets/blog.php:335
+msgid "Post Meta"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:242
+#: inc/elementor/widgets/blog.php:308
+msgid "Post Thumbnail"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:181
+#: inc/elementor/widgets/blog.php:247
+msgid "Post Title"
+msgstr ""
+
+#: templates/elements-widgets/portfolio.php:48
+#: templates/elements-widgets/woo-products-grid-carousel.php:58
+#: templates/elements-widgets/blog.php:39
+msgid "Previous"
+msgstr ""
+
+#: widgets/woocommerce-product-sorting.php:65
+msgid "Price: High to Low"
+msgstr ""
+
+#: widgets/woocommerce-product-sorting.php:64
+msgid "Price: Low to High"
+msgstr ""
+
+#: inc/functions.php:256
+msgid "Print"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-brands.php:28
+msgid "Product Brands"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories.php:28
+msgid "Product Categories"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:28
+msgid "Product Categories Thumbnail"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:30
+msgid "Product Custom Categories"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-widget.php:215
+msgid "Product Per Slide"
+msgstr ""
+
+#: widgets/woocommerce-product.php:54
+msgid "Product Type:"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-grid-carousel.php:99
+#: inc/elementor/widgets/woo-products-category-tabs.php:91
+#: inc/elementor/widgets/woo-products-tabs.php:89
+#: inc/elementor/widgets/woo-hot-deal-products.php:148
+msgid "Product View Mode"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:28
+msgid "Products And Categories Box"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-category-tabs.php:28
+msgid "Products Category Tabs"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:100
+msgid "Products Deal Style"
+msgstr ""
+
+#: widgets/woocommerce-brand-filter.php:22
+msgid "Products Filter by brands."
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-grid-carousel.php:28
+msgid "Products Grid Or Carousel"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:108
+#: inc/elementor/widgets/woo-products-grid-carousel.php:111
+#: inc/elementor/widgets/woo-products-category-tabs.php:103
+#: inc/elementor/widgets/woo-products-tabs.php:101
+#: inc/elementor/widgets/woo-hot-deal-products.php:160
+msgid "Products Hover Style"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:112
+#: inc/elementor/widgets/woo-products-grid-carousel.php:115
+#: inc/elementor/widgets/woo-products-category-tabs.php:107
+#: inc/elementor/widgets/woo-products-tabs.php:105
+#: inc/elementor/widgets/woo-hot-deal-products.php:164
+msgid "Products Hover Style 1"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:113
+#: inc/elementor/widgets/woo-products-grid-carousel.php:116
+#: inc/elementor/widgets/woo-products-category-tabs.php:108
+#: inc/elementor/widgets/woo-products-tabs.php:106
+#: inc/elementor/widgets/woo-hot-deal-products.php:165
+msgid "Products Hover Style 2"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:114
+#: inc/elementor/widgets/woo-products-grid-carousel.php:117
+#: inc/elementor/widgets/woo-products-category-tabs.php:109
+#: inc/elementor/widgets/woo-products-tabs.php:107
+#: inc/elementor/widgets/woo-hot-deal-products.php:166
+msgid "Products Hover Style 3"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:115
+#: inc/elementor/widgets/woo-products-grid-carousel.php:118
+#: inc/elementor/widgets/woo-products-category-tabs.php:110
+#: inc/elementor/widgets/woo-products-tabs.php:108
+#: inc/elementor/widgets/woo-hot-deal-products.php:167
+msgid "Products Hover Style 4"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-grid-carousel.php:143
+#: inc/elementor/widgets/blog.php:107
+msgid "Products Pagination"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:171
+#: inc/elementor/widgets/woo-products-and-categories-box.php:198
+#: inc/elementor/widgets/woo-products-grid-carousel.php:199
+#: inc/elementor/widgets/woo-products-category-tabs.php:247
+#: inc/elementor/widgets/woo-products-tabs.php:281
+#: inc/elementor/widgets/woo-hot-deal-products.php:234
+msgid "Products Query"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-recently-viewed.php:28
+msgid "Products Recently Viewed"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-tabs.php:28
+msgid "Products Tabs"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-widget.php:28
+msgid "Products Widget"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:28
+msgid "Products With Banner"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:88
+msgid "Products With Banner Left"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:89
+msgid "Products With Banner Right"
+msgstr ""
+
+#: inc/elementor/widgets/social-buttons.php:75
+msgid "Profile"
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:147
+msgid "Profile Link"
+msgstr ""
+
+#: inc/elementor/widgets/progress-bar.php:28
+#: inc/elementor/widgets/progress-bar.php:129
+msgid "Progress Bar"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:104
+#: inc/elementor/widgets/portfolio.php:143 inc/elementor/widgets/blog.php:124
+#: inc/elementor/widgets/portfolio-carousel.php:123
+msgid "Query"
+msgstr ""
+
+#: widgets/woocommerce-product-attributes-filter.php:88
+msgid "Query type"
+msgstr ""
+
+#: inc/elementor/widgets/testimonials.php:93
+msgid "Quote Background Color"
+msgstr ""
+
+#: inc/elementor/widgets/testimonials.php:107
+msgid "Quote Color"
+msgstr ""
+
+#: widgets/woocommerce-product.php:39 widgets/class-portfolios.php:29
+msgid "Rand"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:254
+#: inc/elementor/widgets/portfolio.php:164
+#: inc/elementor/widgets/woo-products-and-categories-box.php:309
+#: inc/elementor/widgets/woo-products-grid-carousel.php:282
+#: inc/elementor/widgets/woo-products-category-tabs.php:281
+#: inc/elementor/widgets/woo-hot-deal-products.php:287
+#: inc/elementor/widgets/portfolio-carousel.php:144
+#: inc/elementor/widgets/woo-products-widget.php:174
+msgid "Random"
+msgstr ""
+
+#: inc/functions.php:349 inc/elementor/widgets/blog-carousel.php:149
+#: inc/elementor/widgets/blog.php:169
+msgid "Random Posts"
+msgstr ""
+
+#: templates/elements-widgets/dokan-vendors/default.php:45
+#: templates/elements-widgets/dokan-vendors/boxed.php:45
+#: templates/elements-widgets/dokan-vendors/boxed-center-products.php:52
+#: templates/elements-widgets/dokan-vendors/boxed-simple.php:47
+#: templates/elements-widgets/dokan-vendors/boxed-horizontal-products.php:46
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: inc/elementor/widgets/testimonials.php:177
+msgid "Rating"
+msgstr ""
+
+#: inc/elementor/widgets/info-box.php:154
+#: inc/elementor/widgets/info-box.php:156
+#: inc/elementor/widgets/info-box.php:157
+msgid "Read More"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:332
+#: inc/elementor/widgets/blog.php:398
+msgid "Read More Button"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:348
+#: inc/elementor/widgets/blog.php:414
+msgid "Read More Style"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:278
+#: inc/elementor/widgets/blog.php:344
+msgid "Read Time"
+msgstr ""
+
+#: widgets/class-recent-posts.php:30 inc/functions.php:348
+#: inc/elementor/widgets/blog-carousel.php:148
+#: inc/elementor/widgets/blog.php:168
+msgid "Recent Posts"
+msgstr ""
+
+#: widgets/woocommerce-product.php:28 widgets/woocommerce-product.php:50
+#: inc/elementor/widgets/woo-products-with-banner.php:181
+#: inc/elementor/widgets/woo-products-and-categories-box.php:249
+#: inc/elementor/widgets/woo-products-grid-carousel.php:209
+#: inc/elementor/widgets/woo-products-tabs.php:221
+#: inc/elementor/widgets/woo-products-widget.php:79
+#: inc/elementor/widgets/woo-products-widget.php:101
+msgid "Recent Products"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-recently-viewed.php:79
+msgid "Recently Viewed"
+msgstr ""
+
+#: inc/functions.php:213
+msgid "Reddit"
+msgstr ""
+
+#: widgets/widget-base/abstract-widget-base.php:483
+msgid "Remove image"
+msgstr ""
+
+#: inc/elementor/base.php:26 inc/elementor/base.php:43
+#: inc/elementor/widgets/woo-product-custom-categories.php:124
+#: inc/elementor/widgets/button.php:119
+#: inc/elementor/widgets/banner-carousel.php:151
+#: inc/elementor/widgets/banner-carousel.php:697
+#: inc/elementor/widgets/banner-carousel.php:727
+#: inc/elementor/widgets/woo-products-category-tabs.php:176
+#: inc/elementor/widgets/counter.php:267 inc/elementor/widgets/banner.php:145
+#: inc/elementor/widgets/banner.php:733 inc/elementor/widgets/banner.php:763
+#: inc/elementor/widgets/woo-products-tabs.php:174
+#: inc/elementor/widgets/vertical-menu.php:86
+#: inc/elementor/widgets/info-box.php:182
+msgid "Right"
+msgstr ""
+
+#: inc/elementor/widgets/newsletter.php:82
+#: inc/elementor/widgets/contact-us.php:91 inc/elementor/widgets/button.php:178
+#: inc/elementor/widgets/banner-carousel.php:478
+#: inc/elementor/widgets/banner.php:492 inc/elementor/widgets/info-box.php:797
+msgid "Round"
+msgstr ""
+
+#: inc/elementor/widgets/button.php:177
+#: inc/elementor/widgets/banner-carousel.php:477
+#: inc/elementor/widgets/banner.php:491 inc/elementor/widgets/info-box.php:796
+msgid "Rounded"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:197
+#: inc/elementor/widgets/woo-products-with-banner.php:284
+#: inc/elementor/widgets/instagram.php:217
+#: inc/elementor/widgets/woo-product-custom-categories.php:272
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:319
+#: inc/elementor/widgets/woo-products-grid-carousel.php:345
+#: inc/elementor/widgets/woo-wcfm-vendors.php:197
+#: inc/elementor/widgets/woo-wc-vendors.php:197
+#: inc/elementor/widgets/woo-products-category-tabs.php:345
+#: inc/elementor/widgets/woo-product-brands.php:249
+#: inc/elementor/widgets/woo-wcmp-vendors.php:197
+#: inc/elementor/widgets/woo-product-categories.php:311
+#: inc/elementor/widgets/woo-products-tabs.php:368
+#: inc/elementor/widgets/woo-hot-deal-products.php:350
+msgid "Rows"
+msgstr ""
+
+#: inc/functions.php:281
+msgid "RSS"
+msgstr ""
+
+#: inc/elementor/controls/autocomplete.php:64
+msgid "Search"
+msgstr ""
+
+#: posts/posts-content.php:177 posts/posts-content.php:189
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:150
+msgid ""
+"Select banner style. Only single image banner or multiple images banner with "
+"slider."
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:95
+msgid "Select box style."
+msgstr ""
+
+#: inc/elementor/widgets/button.php:224
+msgid "Select Button Color"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:195
+msgid "Select Category"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:199
+#: inc/elementor/widgets/woo-products-category-tabs.php:214
+msgid "Select category"
+msgstr ""
+
+#: inc/elementor/widgets/contact-us.php:54
+msgid "Select Contact Form"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-widget.php:109
+msgid "Select data source"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:189
+#: inc/elementor/widgets/woo-products-and-categories-box.php:257
+#: inc/elementor/widgets/woo-products-grid-carousel.php:217
+msgid "Select data source for your product grid"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-tabs.php:229
+msgid "Select data source for your product tab"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:92
+msgid "Select element layout."
+msgstr ""
+
+#: inc/elementor/widgets/contact-us.php:79
+msgid "Select Form"
+msgstr ""
+
+#: inc/elementor/widgets/instagram.php:138
+msgid "Select gallery images."
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:256
+msgid "Select Image"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:184
+msgid "Select image from media library."
+msgstr ""
+
+#: inc/elementor/widgets/team.php:86
+msgid "Select image size."
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:131
+#: inc/elementor/widgets/woo-products-grid-carousel.php:134
+#: inc/elementor/widgets/woo-products-category-tabs.php:126
+#: inc/elementor/widgets/woo-products-tabs.php:124
+#: inc/elementor/widgets/woo-hot-deal-products.php:183
+msgid "Select product cart button style"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:223
+msgid "Select product countdown display position."
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:107
+msgid "Select product deal style."
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:118
+#: inc/elementor/widgets/woo-products-grid-carousel.php:121
+#: inc/elementor/widgets/woo-products-category-tabs.php:113
+#: inc/elementor/widgets/woo-products-tabs.php:111
+#: inc/elementor/widgets/woo-hot-deal-products.php:170
+msgid "Select product hover style."
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-category-tabs.php:182
+#: inc/elementor/widgets/woo-products-tabs.php:180
+msgid "Select product tabs align."
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-category-tabs.php:152
+#: inc/elementor/widgets/woo-products-tabs.php:150
+msgid "Select product tabs style."
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-brands.php:138
+msgid "Select specific brands."
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:218
+#: inc/elementor/widgets/blog-carousel.php:118
+#: inc/elementor/widgets/woo-products-and-categories-box.php:212
+#: inc/elementor/widgets/woo-products-and-categories-box.php:239
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:155
+#: inc/elementor/widgets/woo-products-grid-carousel.php:246
+#: inc/elementor/widgets/blog.php:138
+#: inc/elementor/widgets/woo-product-categories.php:146
+#: inc/elementor/widgets/woo-products-tabs.php:296
+#: inc/elementor/widgets/woo-hot-deal-products.php:248
+#: inc/elementor/widgets/woo-products-widget.php:138
+msgid "Select specific categories."
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:205
+#: inc/elementor/widgets/woo-products-and-categories-box.php:273
+#: inc/elementor/widgets/woo-products-grid-carousel.php:233
+#: inc/elementor/widgets/woo-products-tabs.php:245
+#: inc/elementor/widgets/woo-hot-deal-products.php:267
+#: inc/elementor/widgets/woo-products-widget.php:125
+msgid "Select specific products."
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:96
+#: inc/elementor/widgets/portfolio.php:99 inc/elementor/widgets/team.php:76
+#: inc/elementor/widgets/woo-wcfm-vendors.php:96
+#: inc/elementor/widgets/blog.php:101
+#: inc/elementor/widgets/woo-wc-vendors.php:96
+#: inc/elementor/widgets/woo-wcmp-vendors.php:96
+#: inc/elementor/widgets/woo-product-categories.php:108
+#: inc/elementor/widgets/portfolio-carousel.php:94
+#: inc/elementor/widgets/testimonials.php:74
+msgid "Select style."
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:156
+msgid "Separator"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:190
+msgid "Separator Position"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:186
+msgid "Set unique color of this box"
+msgstr ""
+
+#: inc/elementor/widgets/button.php:173
+#: inc/elementor/widgets/banner-carousel.php:473
+#: inc/elementor/widgets/banner.php:487 inc/elementor/widgets/info-box.php:792
+msgid "Shape"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:279
+#: inc/elementor/widgets/social-buttons.php:74
+#: inc/elementor/widgets/blog.php:345
+msgid "Share"
+msgstr ""
+
+#: inc/elementor/widgets/vertical-menu.php:66
+msgid "Shop By Categories"
+msgstr ""
+
+#: inc/elementor/widgets/banner.php:126
+msgid "Shop Now"
+msgstr ""
+
+#: posts/posts-content.php:205
+msgid "Shortcode"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:184
+#: inc/elementor/widgets/blog-carousel.php:212
+#: inc/elementor/widgets/blog-carousel.php:224
+#: inc/elementor/widgets/blog-carousel.php:245
+#: inc/elementor/widgets/blog-carousel.php:259
+#: inc/elementor/widgets/blog-carousel.php:295
+#: inc/elementor/widgets/blog-carousel.php:335
+#: inc/elementor/widgets/portfolio.php:233
+#: inc/elementor/widgets/portfolio.php:245
+#: inc/elementor/widgets/portfolio.php:257
+#: inc/elementor/widgets/portfolio.php:272
+#: inc/elementor/widgets/portfolio.php:287
+#: inc/elementor/widgets/portfolio.php:299
+#: inc/elementor/widgets/portfolio.php:314 inc/elementor/widgets/blog.php:250
+#: inc/elementor/widgets/blog.php:278 inc/elementor/widgets/blog.php:290
+#: inc/elementor/widgets/blog.php:311 inc/elementor/widgets/blog.php:325
+#: inc/elementor/widgets/blog.php:361 inc/elementor/widgets/blog.php:401
+#: inc/elementor/widgets/portfolio-carousel.php:177
+#: inc/elementor/widgets/portfolio-carousel.php:189
+#: inc/elementor/widgets/portfolio-carousel.php:204
+#: inc/elementor/widgets/portfolio-carousel.php:219
+#: inc/elementor/widgets/portfolio-carousel.php:231
+#: inc/elementor/widgets/portfolio-carousel.php:246
+msgid "Show"
+msgstr ""
+
+#: templates/elements-widgets/product-categories/categories-sub-categories-box.php:67
+#: templates/elements-widgets/product-categories/categories-sub-categories-vertical.php:65
+msgid "Show All"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:94
+msgid "Show Category Title"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:102
+#: inc/elementor/widgets/woo-products-and-categories-box.php:129
+#: inc/elementor/widgets/woo-product-categories.php:228
+msgid "Show Count"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-grid-carousel.php:160
+msgid "Show Count Down"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:200
+msgid "Show Countdown"
+msgstr ""
+
+#: widgets/woocommerce-product.php:86
+msgid "Show hidden products?"
+msgstr ""
+
+#: widgets/woocommerce-product-attributes-filter.php:107
+msgid "Show labels"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:292
+#: inc/elementor/widgets/blog.php:358
+msgid "Show Post content"
+msgstr ""
+
+#: widgets/woocommerce-product-attributes-filter.php:116
+msgid "Show Products Counts"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:192
+msgid "Show Progressbar"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-widget.php:195
+msgid "Show Rating?"
+msgstr ""
+
+#: widgets/woocommerce-product.php:91
+msgid "Show rating?"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:102
+#: inc/elementor/widgets/woo-wcfm-vendors.php:102
+#: inc/elementor/widgets/woo-wc-vendors.php:102
+#: inc/elementor/widgets/woo-wcmp-vendors.php:102
+msgid "Show Recent Products"
+msgstr ""
+
+#: widgets/woocommerce-product.php:120 widgets/class-recent-posts.php:67
+#: widgets/class-portfolios.php:89
+msgid "Show slider dots?"
+msgstr ""
+
+#: widgets/woocommerce-product.php:115 widgets/class-recent-posts.php:62
+#: widgets/class-portfolios.php:84
+msgid "Show slider navigation?"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:234
+#: inc/elementor/widgets/woo-product-brands.php:179
+msgid "Show Title"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:140
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:242
+#: inc/elementor/widgets/woo-products-grid-carousel.php:168
+#: inc/elementor/widgets/woo-product-categories.php:240
+msgid "Show View All Button"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:299
+#: inc/elementor/widgets/blog.php:365
+msgid "Show/hide blog post content."
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:249
+#: inc/elementor/widgets/blog.php:315
+msgid "Show/hide blog post thumbnail."
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:188
+#: inc/elementor/widgets/blog.php:254
+msgid "Show/hide blog post title."
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:339
+#: inc/elementor/widgets/blog.php:405
+msgid "Show/hide blog read more button."
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:263
+#: inc/elementor/widgets/blog.php:329
+msgid "Show/hide post meta."
+msgstr ""
+
+#: widgets/woocommerce-product-attributes-filter.php:24
+msgid ""
+"Shows a custom attribute in a widget which lets you narrow down the list of "
+"products when viewing product categories."
+msgstr ""
+
+#: widgets/woocommerce-price-filter.php:28
+msgid ""
+"Shows a price filter list in a widget which lets you narrow down the list of "
+"shown products when viewing product categories."
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:263
+#: inc/elementor/widgets/woo-products-with-banner.php:350
+#: inc/elementor/widgets/blog-carousel.php:424
+#: inc/elementor/widgets/instagram.php:283
+#: inc/elementor/widgets/woo-products-and-categories-box.php:392
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:391
+#: inc/elementor/widgets/woo-products-grid-carousel.php:411
+#: inc/elementor/widgets/woo-wcfm-vendors.php:263
+#: inc/elementor/widgets/banner-carousel.php:862
+#: inc/elementor/widgets/woo-wc-vendors.php:263
+#: inc/elementor/widgets/woo-product-brands.php:319
+#: inc/elementor/widgets/woo-wcmp-vendors.php:263
+#: inc/elementor/widgets/woo-product-categories.php:377
+#: inc/elementor/widgets/woo-hot-deal-products.php:416
+#: inc/elementor/widgets/portfolio-carousel.php:318
+#: inc/elementor/widgets/woo-products-recently-viewed.php:158
+msgid "Side"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:196 inc/elementor/widgets/blog.php:207
+#: inc/elementor/widgets/counter.php:278 inc/elementor/widgets/info-box.php:638
+msgid "Simple"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:103
+msgid "Simple Deal"
+msgstr ""
+
+#: inc/elementor/widgets/newsletter.php:71
+msgid "Simple Form"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-and-categories-box.php:165
+msgid "Single image banner"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:194
+#: inc/elementor/widgets/blog.php:260
+msgid "Single Line Title"
+msgstr ""
+
+#: widgets/class-about-us.php:51
+msgid "Site Url:"
+msgstr ""
+
+#: posts/posts-content.php:140
+msgid "Size Chart"
+msgstr ""
+
+#: inc/admin/class-admin.php:39
+msgid "Size Chart Table"
+msgstr ""
+
+#: posts/posts-content.php:141
+msgid "Size Charts"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:221
+msgid "Skype link"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:76
+#: inc/elementor/widgets/instagram.php:79
+#: inc/elementor/widgets/woo-product-custom-categories.php:70
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:91
+#: inc/elementor/widgets/woo-products-grid-carousel.php:90
+#: inc/elementor/widgets/woo-wcfm-vendors.php:76
+#: inc/elementor/widgets/woo-wc-vendors.php:76
+#: inc/elementor/widgets/woo-products-category-tabs.php:82
+#: inc/elementor/widgets/woo-product-brands.php:89
+#: inc/elementor/widgets/woo-wcmp-vendors.php:76
+#: inc/elementor/widgets/woo-product-categories.php:91
+#: inc/elementor/widgets/woo-products-tabs.php:80
+#: inc/elementor/widgets/woo-hot-deal-products.php:91
+#: inc/elementor/widgets/woo-products-widget.php:90
+msgid "Slider"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:262
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:309
+#: inc/elementor/widgets/woo-products-grid-carousel.php:335
+#: inc/elementor/widgets/woo-product-brands.php:239
+#: inc/elementor/widgets/woo-product-categories.php:301
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:196
+#: inc/elementor/widgets/woo-product-brands.php:157
+#: inc/elementor/widgets/woo-product-categories.php:187
+msgid "Slug"
+msgstr ""
+
+#: widgets/class-social-links.php:63
+#: inc/elementor/widgets/social-buttons.php:114
+msgid "Small"
+msgstr ""
+
+#: widgets/class-social-links.php:29
+msgid "Social"
+msgstr ""
+
+#: inc/elementor/widgets/social-buttons.php:27
+msgid "Social Buttons"
+msgstr ""
+
+#: inc/elementor/widgets/social-buttons.php:71
+msgid "Social Type"
+msgstr ""
+
+#: inc/elementor/widgets/countdown.php:100
+#: inc/elementor/widgets/heading.php:210
+#: inc/elementor/widgets/banner-carousel.php:629
+#: inc/elementor/widgets/counter.php:306 inc/elementor/widgets/banner.php:665
+#: inc/elementor/widgets/info-box.php:458
+#: inc/elementor/widgets/info-box.php:667
+msgid "Solid"
+msgstr ""
+
+#: widgets/woocommerce-product-sorting.php:21
+#: inc/elementor/widgets/woo-dokan-vendors.php:143
+#: inc/elementor/widgets/woo-products-with-banner.php:263
+#: inc/elementor/widgets/blog-carousel.php:160
+#: inc/elementor/widgets/portfolio.php:172
+#: inc/elementor/widgets/woo-products-and-categories-box.php:318
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:206
+#: inc/elementor/widgets/woo-products-grid-carousel.php:291
+#: inc/elementor/widgets/woo-wcfm-vendors.php:143
+#: inc/elementor/widgets/blog.php:180
+#: inc/elementor/widgets/woo-wc-vendors.php:143
+#: inc/elementor/widgets/woo-products-category-tabs.php:290
+#: inc/elementor/widgets/woo-product-brands.php:166
+#: inc/elementor/widgets/woo-wcmp-vendors.php:143
+#: inc/elementor/widgets/woo-product-categories.php:197
+#: inc/elementor/widgets/woo-hot-deal-products.php:296
+#: inc/elementor/widgets/portfolio-carousel.php:152
+#: inc/elementor/widgets/woo-products-widget.php:183
+msgid "Sort By"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:198
+#: inc/elementor/widgets/woo-product-categories.php:189
+msgid "Sort Order"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-brands.php:134
+msgid "Specific Brands"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:211
+#: inc/elementor/widgets/blog-carousel.php:111
+#: inc/elementor/widgets/woo-products-and-categories-box.php:205
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:148
+#: inc/elementor/widgets/woo-products-grid-carousel.php:239
+#: inc/elementor/widgets/blog.php:131
+#: inc/elementor/widgets/woo-product-categories.php:139
+#: inc/elementor/widgets/woo-products-tabs.php:289
+#: inc/elementor/widgets/woo-hot-deal-products.php:241
+#: inc/elementor/widgets/woo-products-widget.php:131
+msgid "Specific Category"
+msgstr ""
+
+#: inc/elementor/widgets/woo-hot-deal-products.php:257
+msgid "Specific Product Ids"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:121
+#: inc/elementor/widgets/woo-wcfm-vendors.php:121
+#: inc/elementor/widgets/woo-wc-vendors.php:121
+#: inc/elementor/widgets/woo-wcmp-vendors.php:121
+msgid "Specific Vendor"
+msgstr ""
+
+#: widgets/class-social-links.php:54 inc/elementor/widgets/newsletter.php:83
+#: inc/elementor/widgets/contact-us.php:92
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:103
+#: inc/elementor/widgets/button.php:176
+#: inc/elementor/widgets/social-buttons.php:102
+#: inc/elementor/widgets/banner-carousel.php:476
+#: inc/elementor/widgets/woo-product-brands.php:101
+#: inc/elementor/widgets/banner.php:490 inc/elementor/widgets/info-box.php:795
+msgid "Square"
+msgstr ""
+
+#: inc/elementor/widgets/counter.php:280 inc/elementor/widgets/info-box.php:640
+msgid "Square Background"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:134
+#: inc/elementor/widgets/woo-wcfm-vendors.php:134
+#: inc/elementor/widgets/woo-wc-vendors.php:134
+#: inc/elementor/widgets/woo-wcmp-vendors.php:134
+msgid "Store Name"
+msgstr ""
+
+#: inc/functions.php:195
+msgid "StumbleUpon"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:86
+#: inc/elementor/widgets/portfolio.php:91 inc/elementor/widgets/team.php:66
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:100
+#: inc/elementor/widgets/button.php:158
+#: inc/elementor/widgets/woo-wcfm-vendors.php:86
+#: inc/elementor/widgets/banner-carousel.php:349
+#: inc/elementor/widgets/banner-carousel.php:459
+#: inc/elementor/widgets/progress-bar.php:85 inc/elementor/widgets/blog.php:92
+#: inc/elementor/widgets/woo-wc-vendors.php:86
+#: inc/elementor/widgets/woo-product-brands.php:98
+#: inc/elementor/widgets/woo-wcmp-vendors.php:86
+#: inc/elementor/widgets/banner.php:344 inc/elementor/widgets/banner.php:473
+#: inc/elementor/widgets/woo-product-categories.php:100
+#: inc/elementor/widgets/portfolio-carousel.php:86
+#: inc/elementor/widgets/info-box.php:778
+#: inc/elementor/widgets/testimonials.php:66
+msgid "Style"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:94
+#: inc/elementor/widgets/woo-product-custom-categories.php:82
+#: inc/elementor/widgets/woo-products-and-categories-box.php:116
+#: inc/elementor/widgets/progress-bar.php:88
+#: inc/elementor/widgets/woo-product-categories.php:117
+#: inc/elementor/widgets/portfolio-carousel.php:89
+msgid "Style 1"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:95
+#: inc/elementor/widgets/woo-product-custom-categories.php:83
+#: inc/elementor/widgets/woo-products-and-categories-box.php:117
+#: inc/elementor/widgets/progress-bar.php:89
+#: inc/elementor/widgets/woo-product-categories.php:118
+#: inc/elementor/widgets/portfolio-carousel.php:90
+msgid "Style 2"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:96
+#: inc/elementor/widgets/woo-product-custom-categories.php:84
+#: inc/elementor/widgets/woo-products-and-categories-box.php:118
+#: inc/elementor/widgets/progress-bar.php:90
+#: inc/elementor/widgets/woo-product-categories.php:119
+#: inc/elementor/widgets/portfolio-carousel.php:91
+msgid "Style 3"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:85
+msgid "Style 4"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:86
+msgid "Style 5"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:95 inc/elementor/widgets/info-box.php:79
+msgid "Sub Title"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:97
+msgid "Sub Title Text"
+msgstr ""
+
+#: inc/elementor/widgets/menu-block.php:94
+msgid "Submenu Item"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:314
+#: inc/elementor/widgets/banner-carousel.php:117
+#: inc/elementor/widgets/banner-carousel.php:341
+#: inc/elementor/widgets/banner.php:109 inc/elementor/widgets/banner.php:337
+#: inc/elementor/widgets/info-box.php:286
+msgid "Subtitle"
+msgstr ""
+
+#: inc/elementor/widgets/banner.php:103
+msgid "Summer Sale"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-category-tabs.php:198
+#: inc/elementor/widgets/woo-products-category-tabs.php:200
+#: inc/elementor/widgets/woo-products-category-tabs.php:201
+#: inc/elementor/widgets/woo-products-category-tabs.php:226
+#: inc/elementor/widgets/woo-products-tabs.php:205
+#: inc/elementor/widgets/woo-products-tabs.php:207
+#: inc/elementor/widgets/woo-products-tabs.php:208
+msgid "Tab Title"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-category-tabs.php:230
+msgid "Tab Title2"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-category-tabs.php:234
+msgid "Tab Title3"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-category-tabs.php:137
+#: inc/elementor/widgets/woo-products-tabs.php:135
+msgid "Tabs"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-category-tabs.php:171
+#: inc/elementor/widgets/woo-products-tabs.php:169
+msgid "Tabs Align"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-category-tabs.php:221
+#: inc/elementor/widgets/woo-products-tabs.php:252
+msgid "Tabs Items"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-category-tabs.php:145
+#: inc/elementor/widgets/woo-products-tabs.php:143
+msgid "Tabs Style"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-category-tabs.php:149
+#: inc/elementor/widgets/woo-products-tabs.php:147
+msgid "Tabs With Title"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:106 inc/elementor/widgets/heading.php:347
+msgid "Tagline"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:275
+#: inc/elementor/widgets/blog.php:341
+msgid "Tags"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:29
+msgid "Team"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:243
+msgid "Team Members"
+msgstr ""
+
+#: inc/functions.php:243
+msgid "Telegram"
+msgstr ""
+
+#: inc/elementor/widgets/testimonials.php:29
+msgid "Testimonials"
+msgstr ""
+
+#: inc/elementor/widgets/testimonials.php:187
+msgid "Testimonials Item"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:127
+#: inc/elementor/widgets/button.php:164
+#: inc/elementor/widgets/woo-products-grid-carousel.php:130
+#: inc/elementor/widgets/banner-carousel.php:465
+#: inc/elementor/widgets/woo-products-category-tabs.php:122
+#: inc/elementor/widgets/banner.php:479
+#: inc/elementor/widgets/woo-products-tabs.php:120
+#: inc/elementor/widgets/woo-hot-deal-products.php:179
+#: inc/elementor/widgets/info-box.php:223
+#: inc/elementor/widgets/info-box.php:259
+#: inc/elementor/widgets/info-box.php:784
+msgid "Text"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:685
+#: inc/elementor/widgets/banner.php:721
+msgid "Text Alignment"
+msgstr ""
+
+#: inc/elementor/widgets/countdown.php:196
+msgid "Text Color"
+msgstr ""
+
+#: widgets/class-social-links.php:44
+#: inc/elementor/widgets/social-buttons.php:90
+msgid "Theme Colour"
+msgstr ""
+
+#: inc/elementor/class-elementor.php:90
+msgid "Theme fonts"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeJR"
+msgstr ""
+
+#: inc/functions.php:263
+msgid "TikTok"
+msgstr ""
+
+#: widgets/class-newsletter.php:29 widgets/woocommerce-product.php:37
+#: widgets/woocommerce-product-attributes-filter.php:77
+#: widgets/class-recent-posts.php:29 widgets/class-portfolios.php:27
+#: widgets/class-portfolios.php:39
+#: inc/elementor/widgets/woo-dokan-vendors.php:64
+#: inc/elementor/widgets/woo-products-with-banner.php:77
+#: inc/elementor/widgets/woo-products-with-banner.php:252
+#: inc/elementor/widgets/newsletter.php:60
+#: inc/elementor/widgets/contact-us.php:64
+#: inc/elementor/widgets/contact-us.php:102
+#: inc/elementor/widgets/portfolio.php:162
+#: inc/elementor/widgets/instagram.php:67
+#: inc/elementor/widgets/woo-product-custom-categories.php:187
+#: inc/elementor/widgets/woo-products-and-categories-box.php:307
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:80
+#: inc/elementor/widgets/woo-products-grid-carousel.php:79
+#: inc/elementor/widgets/woo-products-grid-carousel.php:280
+#: inc/elementor/widgets/social-buttons.php:63
+#: inc/elementor/widgets/countdown.php:89 inc/elementor/widgets/heading.php:66
+#: inc/elementor/widgets/heading.php:148
+#: inc/elementor/widgets/woo-wcfm-vendors.php:64
+#: inc/elementor/widgets/banner-carousel.php:110
+#: inc/elementor/widgets/banner-carousel.php:304
+#: inc/elementor/widgets/progress-bar.php:77
+#: inc/elementor/widgets/woo-wc-vendors.php:64
+#: inc/elementor/widgets/woo-products-category-tabs.php:159
+#: inc/elementor/widgets/woo-products-category-tabs.php:279
+#: inc/elementor/widgets/woo-product-brands.php:78
+#: inc/elementor/widgets/woo-wcmp-vendors.php:64
+#: inc/elementor/widgets/banner.php:101 inc/elementor/widgets/banner.php:296
+#: inc/elementor/widgets/woo-product-categories.php:80
+#: inc/elementor/widgets/woo-products-tabs.php:157
+#: inc/elementor/widgets/menu-block.php:55
+#: inc/elementor/widgets/menu-block.php:102
+#: inc/elementor/widgets/woo-hot-deal-products.php:80
+#: inc/elementor/widgets/woo-hot-deal-products.php:285
+#: inc/elementor/widgets/vertical-menu.php:64
+#: inc/elementor/widgets/portfolio-carousel.php:142
+#: inc/elementor/widgets/info-box.php:88 inc/elementor/widgets/info-box.php:326
+#: inc/elementor/widgets/woo-products-widget.php:77
+#: inc/elementor/widgets/woo-products-widget.php:172
+#: inc/elementor/widgets/woo-products-recently-viewed.php:77
+msgid "Title"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:289
+msgid "Title Color"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:75 inc/elementor/widgets/info-box.php:98
+msgid "Title HTML Tag"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:125
+msgid "Title Width"
+msgstr ""
+
+#: widgets/woocommerce-product.php:49 widgets/class-about-us.php:31
+#: widgets/woocommerce-price-filter.php:301
+#: widgets/woocommerce-brand-filter.php:29
+#: widgets/woocommerce-product-sorting.php:22 widgets/class-social-links.php:28
+msgid "Title:"
+msgstr ""
+
+#: inc/elementor/base.php:52 inc/elementor/widgets/woo-dokan-vendors.php:264
+#: inc/elementor/widgets/woo-products-with-banner.php:351
+#: inc/elementor/widgets/blog-carousel.php:425
+#: inc/elementor/widgets/instagram.php:284
+#: inc/elementor/widgets/woo-products-and-categories-box.php:393
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:392
+#: inc/elementor/widgets/woo-products-grid-carousel.php:412
+#: inc/elementor/widgets/woo-wcfm-vendors.php:264
+#: inc/elementor/widgets/banner-carousel.php:745
+#: inc/elementor/widgets/banner-carousel.php:863
+#: inc/elementor/widgets/woo-wc-vendors.php:264
+#: inc/elementor/widgets/counter.php:265
+#: inc/elementor/widgets/woo-product-brands.php:320
+#: inc/elementor/widgets/woo-wcmp-vendors.php:264
+#: inc/elementor/widgets/banner.php:781
+#: inc/elementor/widgets/woo-product-categories.php:378
+#: inc/elementor/widgets/woo-hot-deal-products.php:417
+#: inc/elementor/widgets/portfolio-carousel.php:319
+#: inc/elementor/widgets/woo-products-recently-viewed.php:159
+msgid "Top"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-brands.php:80
+msgid "Top Brands"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:82
+#: inc/elementor/widgets/woo-product-categories.php:82
+msgid "Top Categories"
+msgstr ""
+
+#: widgets/woocommerce-product.php:32
+#: inc/elementor/widgets/woo-products-with-banner.php:185
+#: inc/elementor/widgets/woo-products-and-categories-box.php:253
+#: inc/elementor/widgets/woo-products-grid-carousel.php:213
+#: inc/elementor/widgets/woo-products-tabs.php:225
+#: inc/elementor/widgets/woo-products-widget.php:105
+msgid "Top Rated Products"
+msgstr ""
+
+#: widgets/woocommerce-product.php:31
+msgid "Top Selling Products"
+msgstr ""
+
+#: inc/elementor/widgets/woo-dokan-vendors.php:66
+#: inc/elementor/widgets/woo-wcfm-vendors.php:66
+#: inc/elementor/widgets/woo-wc-vendors.php:66
+#: inc/elementor/widgets/woo-wcmp-vendors.php:66
+msgid "Top Vendor"
+msgstr ""
+
+#: templates/elements-widgets/dokan-vendors/default.php:73
+msgid "Total products"
+msgstr ""
+
+#: inc/functions.php:201
+msgid "Tumblr"
+msgstr ""
+
+#: inc/functions.php:183
+msgid "Twitter"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:207
+msgid "Twitter link"
+msgstr ""
+
+#: inc/elementor/widgets/contact-us.php:121
+#: inc/elementor/widgets/contact-us.php:148
+#: inc/elementor/widgets/button.php:190
+#: inc/elementor/widgets/banner-carousel.php:490
+#: inc/elementor/widgets/counter.php:173 inc/elementor/widgets/counter.php:201
+#: inc/elementor/widgets/banner.php:504 inc/elementor/widgets/info-box.php:305
+#: inc/elementor/widgets/info-box.php:345
+#: inc/elementor/widgets/info-box.php:386
+#: inc/elementor/widgets/info-box.php:625
+#: inc/elementor/widgets/info-box.php:809
+msgid "Typography"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:160
+msgid "Underline"
+msgstr ""
+
+#: inc/elementor/widgets/heading.php:172
+msgid "Underline Color"
+msgstr ""
+
+#: inc/elementor/widgets/progress-bar.php:98
+msgid "Units"
+msgstr ""
+
+#: posts/posts-content.php:194
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: inc/elementor/widgets/woo-product-custom-categories.php:207
+msgid "Upload category image."
+msgstr ""
+
+#: widgets/class-about-us.php:41
+msgid "Upload Logo:"
+msgstr ""
+
+#: widgets/widget-base/abstract-widget-base.php:481
+msgid "Upload/Add image"
+msgstr ""
+
+#: widgets/widget-base/abstract-widget-base.php:480
+msgid "Use Image"
+msgstr ""
+
+#: inc/elementor/widgets/progress-bar.php:149
+msgid "Value"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:93
+#: inc/elementor/widgets/woo-products-grid-carousel.php:102
+#: inc/elementor/widgets/woo-products-category-tabs.php:94
+#: inc/elementor/widgets/woo-products-tabs.php:92
+#: inc/elementor/widgets/woo-hot-deal-products.php:151
+msgid "Vertical"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:741
+#: inc/elementor/widgets/banner.php:777
+msgid "Vertical Alignment"
+msgstr ""
+
+#: inc/elementor/widgets/vertical-menu.php:28
+msgid "Vertical/Categories Menu"
+msgstr ""
+
+#: posts/posts-content.php:176
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:148
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:250
+#: inc/elementor/widgets/woo-products-grid-carousel.php:176
+#: inc/elementor/widgets/woo-product-categories.php:248
+msgid "View All Button Text"
+msgstr ""
+
+#: inc/elementor/widgets/woo-products-with-banner.php:159
+#: inc/elementor/widgets/woo-product-categories-thumbnails.php:261
+#: inc/elementor/widgets/woo-products-grid-carousel.php:187
+#: inc/elementor/widgets/woo-product-categories.php:259
+msgid "View More Button Link"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:277
+#: inc/elementor/widgets/blog.php:343
+msgid "Views"
+msgstr ""
+
+#: templates/elements-widgets/wcfm-vendors/default.php:83
+#: templates/elements-widgets/wcfm-vendors/boxed.php:51
+#: templates/elements-widgets/wcfm-vendors/boxed-center-products.php:80
+#: templates/elements-widgets/wcfm-vendors/boxed-simple.php:53
+#: templates/elements-widgets/wcfm-vendors/boxed-horizontal-products.php:53
+#: templates/elements-widgets/wcmp-vendors/default.php:68
+#: templates/elements-widgets/wcmp-vendors/boxed.php:43
+#: templates/elements-widgets/wcmp-vendors/boxed-center-products.php:74
+#: templates/elements-widgets/wcmp-vendors/boxed-simple.php:47
+#: templates/elements-widgets/wcmp-vendors/boxed-horizontal-products.php:46
+#: templates/elements-widgets/dokan-vendors/default.php:82
+#: templates/elements-widgets/dokan-vendors/boxed.php:51
+#: templates/elements-widgets/dokan-vendors/boxed-center-products.php:81
+#: templates/elements-widgets/dokan-vendors/boxed-simple.php:54
+#: templates/elements-widgets/dokan-vendors/boxed-horizontal-products.php:53
+#: templates/elements-widgets/wc-vendors/default.php:81
+#: templates/elements-widgets/wc-vendors/boxed.php:53
+#: templates/elements-widgets/wc-vendors/boxed-center-products.php:82
+#: templates/elements-widgets/wc-vendors/boxed-simple.php:54
+#: templates/elements-widgets/wc-vendors/boxed-horizontal-products.php:51
+msgid "Visit Store"
+msgstr ""
+
+#: inc/functions.php:218
+msgid "VKontakte"
+msgstr ""
+
+#: inc/elementor/widgets/woo-wc-vendors.php:28
+msgid "WC Vendors"
+msgstr ""
+
+#: inc/elementor/widgets/woo-wcfm-vendors.php:28
+msgid "WCFM Vendors"
+msgstr ""
+
+#: inc/elementor/widgets/woo-wcmp-vendors.php:28
+msgid "WCMP Vendors"
+msgstr ""
+
+#: widgets/class-about-us.php:75
+msgid "Website:"
+msgstr ""
+
+#: inc/functions.php:236
+msgid "WhatsApp"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:597
+#: inc/elementor/widgets/banner.php:633
+msgid "Width"
+msgstr ""
+
+#: widgets/class-about-us.php:79
+msgid "Working Days/Hours:"
+msgstr ""
+
+#: inc/elementor/widgets/blog-carousel.php:197
+#: inc/elementor/widgets/blog.php:263
+msgid "Yes"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:194
+msgid "You can add some member bio here."
+msgstr ""
+
+#: widgets/class-recent-posts.php:22
+msgid "Your most resent post with slider."
+msgstr ""
+
+#: inc/functions.php:287
+msgid "Youtube"
+msgstr ""
+
+#: inc/elementor/widgets/team.php:235
+msgid "Youtube Link"
+msgstr ""
+
+#: inc/elementor/widgets/portfolio.php:269
+#: inc/elementor/widgets/portfolio-carousel.php:201
+msgid "Zoom Image Icon"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:208
+#: inc/elementor/widgets/banner.php:195
+msgid "Zoom In"
+msgstr ""
+
+#: inc/elementor/widgets/banner-carousel.php:209
+#: inc/elementor/widgets/banner.php:196
+msgid "Zoom Out"
+msgstr ""

@@ -1,0 +1,75 @@
+
+---Downloaded files---
+The import files for: Home1 were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://eurosystem
+Data file = /Users/macbook/Documents/sites/eurosystem/wp-content/themes/matjar/inc/demo-data/home1/content.xml
+Widget file = /Users/macbook/Documents/sites/eurosystem/wp-content/themes/matjar/inc/demo-data/home1/widgets.wie
+Customizer file = not defined!
+Redux files:
+matjar_options -> /Users/macbook/Documents/sites/eurosystem/wp-content/themes/matjar/inc/demo-data/home1/matjar_options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "form": Invalid post type mc4wp-form
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+Block - No Title - Widget already exists
+
+Shop Page Sidebar : 
+
+Matjar: Price Filter List - Filter by price - Imported
+Product Categories - Product categories - Imported
+Matjar: Product Attributes Filter - Filter by Color - Imported
+Matjar: Product Attributes Filter - Filter by Brands - Imported
+
+Shop Filter Sidebar : 
+
+Product Categories - Product categories - Imported
+Matjar: Products - Recent Products - Imported
+
+Footer Area 1 : 
+
+Matjar: About Us - About Us - Imported
+
+Footer Area 2 : 
+
+Custom HTML - Information - Imported
+
+Footer Area 3 : 
+
+Custom HTML - Our Collection - Imported
+
+Footer Area 4 : 
+
+Custom HTML - Quick Links - Imported
+
+Footer Area 5 : 
+
+Text - Download Our App - Imported
+Matjar: Social Links - Follow Us - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: matjar_options finished successfully!
+
+---ocdi/after_import---
+ Slider processed
